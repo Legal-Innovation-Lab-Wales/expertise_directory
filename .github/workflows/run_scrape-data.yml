@@ -36,7 +36,7 @@ jobs:
     - name: Get Data
       run: |
         python3 scrape-data.py
-        cp -rf new-expertise.json ./expertise.json
+        mv -rf new-expertise.json ./expertise.json
     - name: Check for Changes
       run: git status
     - name: Commit files # commit the output folder
