@@ -13,7 +13,6 @@ Get Data from json
 */
 function getData () {
 
-
     json_data = (function () {
         json_data = null;
         $.ajax({
@@ -25,7 +24,6 @@ function getData () {
                 json_data = data;
             }
         });
-        console.log(json_data.law)
         return json_data;
     })();
 }
@@ -34,8 +32,6 @@ function processData () {
 
     document.getElementById('last_updated').innerHTML = json_data.last_update;
 
-    // document.getElementById('data').innerHTML = json_data.law;
-    //
     if(json_data.law){
         var len = json_data.law.length;
         var txt = "";
@@ -43,7 +39,7 @@ function processData () {
             for(var i=0;i<len;i++){
                 txt += "<tr><td>"+json_data.law[i].name +"</td><td>"+json_data.law[i].expertise+"</td></tr>";
             }
-            if(txt != ""){
+            if(txt !== ""){
                 $("#table").append(txt).removeClass("hidden");
             }
         }
