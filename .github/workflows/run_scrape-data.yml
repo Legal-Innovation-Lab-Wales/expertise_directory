@@ -37,8 +37,6 @@ jobs:
       run: |
         python3 scrape-data.py
         mv -f new-expertise.json ./expertise.json
-    - name: Check for Changes
-      run: git status
     - name: Commit files # commit the output folder
       run: |
         git config --local user.email "github@purpleriver.dev"
