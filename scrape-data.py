@@ -17,6 +17,18 @@ def get_colleges():
 		print(college_url)
 
 
+def get_staff(college):
+
+	URL = 'https://www.swansea.ac.uk/staff/' + college
+	page = requests.get(URL)
+	soup = BeautifulSoup(page.content, 'html.parser')
+
+	print(URL)
+
+
+
+
+
 
 def get_name_and_aoe_list():
 
@@ -33,4 +45,4 @@ def get_name_and_aoe_list():
 	print(aoe_list.ul.text.strip())
 
 
-get_colleges()
+get_staff('law')
