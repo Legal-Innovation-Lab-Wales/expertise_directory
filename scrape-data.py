@@ -23,16 +23,21 @@ def get_staff(college):
 	page = requests.get(URL)
 	soup = BeautifulSoup(page.content, 'html.parser')
 
-	print(URL)
+	staff_all = soup.find(class_='contextual-nav')
+	staff_in_list= staff_all.find_all('li')
+	for staff in staff_in_list:
+	 	staff_url = staff.find('a')['href']
+	 	print (staff_url)
 
 
 
 
 
 
-def get_name_and_aoe_list():
 
-	URL = 'https://www.swansea.ac.uk/staff/law/barazza-s/'
+def get_name_and_aoe_list(staff_url):
+
+	URL = 'https://www.swansea.ac.uk/' + staff_url
 	page = requests.get(URL)
 
 	soup = BeautifulSoup(page.content, 'html.parser')
