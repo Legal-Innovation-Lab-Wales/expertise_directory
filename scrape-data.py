@@ -37,7 +37,6 @@ def get_staff(college):
 			jsondata[college].append(name_and_aoe_list)
 
 
-
 def get_name_and_aoe_list(staff_url):
 
 	URL = 'https://www.swansea.ac.uk/' + staff_url
@@ -51,7 +50,7 @@ def get_name_and_aoe_list(staff_url):
 	name = soup.find(class_='staff-profile-overview-honorific-prefix-and-full-name')
 	if name:
 		name = name.text.strip()
-		print(name)
+		#print(name)
 
 	aoe_list = soup.find(class_='staff-profile-areas-of-expertise')
 	if aoe_list:
@@ -68,13 +67,13 @@ def get_name_and_aoe_list(staff_url):
 		return staff_member
 
 
-
 jsondata = {}
 
 jsondata['last_update'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+print('Getting Staff Details')
 get_staff('law')
 #print (jsondata)
 
+print('Save Output File')
 with open('expertise.json', 'w', encoding='utf-8') as file:
 	json.dump(jsondata, file, ensure_ascii=False, indent=4)
-
