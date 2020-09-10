@@ -33,8 +33,20 @@ jobs:
         flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
         # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-    - run: |
+    - name: Get Data
+      run: |
         python3 scrape-data.py
+        cp -rf expertise.json ./
     - name: Check for Changes
       run: git status
-        
+    - name: Commit files # commit the output folder
+      run: |
+        git config --local user.email "github@purpleriver.dev"
+        git config --local user.name "Phil-6"
+        git add ./expertise.json
+        git commit -m "Automated Update of Expertise"
+    - name: Push changes # push the output folder to your repo
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        force: true
