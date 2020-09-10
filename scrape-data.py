@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import json
 
 def get_colleges():
 
@@ -22,12 +23,18 @@ def get_staff(college):
 	URL = 'https://www.swansea.ac.uk/staff/' + college
 	page = requests.get(URL)
 	soup = BeautifulSoup(page.content, 'html.parser')
+	jsondata[college]=[]
+
+
 
 	staff_all = soup.find(class_='contextual-nav')
 	staff_in_list= staff_all.find_all('li')
 	for staff in staff_in_list:
-	 	staff_url = staff.find('a')['href']
-	 	get_name_and_aoe_list(staff_url)
+		staff_url = staff.find('a')['href']
+		name_and_aoe_list = get_name_and_aoe_list(staff_url)
+
+		if name_and_aoe_list:
+			jsondata[college].append(name_and_aoe_list)
 
 
 
@@ -38,14 +45,34 @@ def get_name_and_aoe_list(staff_url):
 
 	soup = BeautifulSoup(page.content, 'html.parser')
 
+	staff_member = {}
+	expertise = []
 
 	name = soup.find(class_='staff-profile-overview-honorific-prefix-and-full-name')
+	if name:
+		name = name.text.strip()
+		print(name)
+
 	aoe_list = soup.find(class_='staff-profile-areas-of-expertise')
-
 	if aoe_list:
+		#add to dict
+		staff_member['name'] = name
 
-		print(name.text.strip())
-		print(aoe_list.ul.text.strip())
+		#remove html
+		aoe_list = aoe_list.ul.text.strip()
+		#remove line breaks
+		aoe_list = aoe_list.replace("\n", ", ").strip()
+		#add to dict
+		staff_member['expertise'] = aoe_list
+
+		return staff_member
 
 
+
+jsondata = {}
 get_staff('law')
+
+
+with open('expertise.json', 'w', encoding='utf-8') as file:
+	json.dump(jsondata, file, ensure_ascii=False, indent=4)
+
