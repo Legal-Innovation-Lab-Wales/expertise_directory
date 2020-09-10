@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Legal Innovation Lab Wales - Directory of Expertise</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7COpen+Sans:400,600" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+          integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="apple-touch-icon" sizes="180x180"
+          href="https://intranet.swan.ac.uk/cdn/suds/images/icons/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32"
+          href="https://intranet.swan.ac.uk/cdn/suds/images/icons/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16"
+          href="https://intranet.swan.ac.uk/cdn/suds/images/icons/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://intranet.swan.ac.uk/cdn/suds/images/icons/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://intranet.swan.ac.uk/cdn/suds/images/icons/favicon/safari-pinned-tab.svg"
+          color="#5bbad5">
+    <link rel="shortcut icon" href="https://intranet.swan.ac.uk/cdn/suds/images/icons/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config"
+          content="https://intranet.swan.ac.uk/cdn/suds/images/icons/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#242F60">
+
+    <!-- Custom built theme - This already includes Bootstrap 4 -->
+    <link rel="stylesheet" href="https://intranet.swan.ac.uk/cdn/suds/css/suds.min.css">
+
+    <!-- Custom Legal Innovation Lab CSS -->
+    <link rel="stylesheet" href="assets/css/lilw-custom.css">
+    <!-- Custom Legal Innovation Lab JS -->
+    <!-- <script src="assets/js/lilw-custom.js"></script> -->
+
+
+
+</head>
+<body>
+<header>
+    <h1 class="a11y-hidden">Legal Innovation Lab Wales - Directory of Expertise</h1>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-logo university-logo" href="https://swansea.ac.uk">
+                <picture>
+                    <source srcset="https://intranet.swan.ac.uk/cdn/suds/images/logo/application-custom/logo-white-en.svg"
+                            type="image/svg+xml">
+                    <img alt="Swansea University"
+                         src="https://intranet.swan.ac.uk/cdn/suds/images/logo/application-custom/logo-white-en.png"
+                         srcset="https://intranet.swan.ac.uk/cdn/suds/images/logo/application-custom/logo-white-en@2x.png">
+                </picture>
+            </a>
+            <!--            <a class="navbar-brand navbar-brand-fluid" href="#">Legal Innovation Lab Wales</a>-->
+            <a class="navbar-logo lilw-logo" href="https://legaltech.wales">
+                <picture>
+                    <img alt="Legal Innovation Lab Wales"
+                         src="assets/images/lilw-logo-white.png">
+                </picture>
+            </a>
+
+        </div>
+        <!--<h3>
+            <button class="float-right btn btn-sm btn-secondary btn-rounded" onclick="toggleLanguageMode()">Toggle Welsh
+            </button>
+        </h3>-->
+        <!-- <div class="navbar-collapse collapse" id="navbarTogglerDemo02" style=""></div> -->
+    </nav>
+</header>
+
+<main id="main">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="title text-center "><strong>Directory of Expertise</strong></h1>
+
+                <h4 class="text-center">Introduction</h4>
+                <div class="last_updated">Last Updated at: <span id="last_updated"></span></div>
+
+                <div id="data"></div>
+
+                <table id="table" class="hidden">
+                    <tr>
+                        <th>Name</th>
+                        <th>Expertise</th>
+                    </tr>
+                </table>
+
+
+            </div>
+        </div>
+        
+    </div>
+</main>
+
+<footer>
+    <div class="main">
+        <!--<div class="scroll-top-btn visible">
+            <svg width="15" height="19" viewBox="0 0 15 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <path d="M7.20515673,0.442955118 C7.01071075,0.450858935 6.82557512,0.530967566 6.68382717,0.668535665 L0.764214123,6.49892519 C0.535172672,6.69838728 0.432075553,7.01236005 0.496442985,7.3143975 C0.560810417,7.61643496 0.782046893,7.85681878 1.07105403,7.93873939 C1.36006116,8.02066 1.66926555,7.93063246 1.87414157,7.7049135 L6.43157093,3.21933108 L6.43157093,18.1552245 C6.42745388,18.4556027 6.58040235,18.7349995 6.8318494,18.8864284 C7.08329644,19.0378572 7.39428535,19.0378572 7.64573239,18.8864284 C7.89717944,18.7349995 8.05012791,18.4556027 8.04601086,18.1552245 L8.04601086,3.21933108 L12.6034402,7.7049135 C12.8083162,7.93063246 13.1175206,8.02066 13.4065278,7.93873939 C13.6955349,7.85681878 13.9167714,7.61643496 13.9811388,7.3143975 C14.0455062,7.01236005 13.9424091,6.69838728 13.7133677,6.49892519 L7.79375462,0.668535665 C7.63509362,0.514470745 7.4228184,0.433116121 7.20515673,0.442955118 Z"></path>
+            </svg>
+        </div>-->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="footer-links-info">
+                        <ul class="footer-links-list">
+                            <li class="footer-links-list-item"><a href="https://www.swansea.ac.uk/contact-us/">Contact Us</a></li>
+                            <li class="footer-links-list-item"><a href="https://www.swansea.ac.uk/jobs-at-swansea/">Jobs</a></li>
+                            <li class="footer-links-list-item"><a href="https://www.swansea.ac.uk/the-university/colleges/">Colleges</a></li>
+                            <li class="footer-links-list-item"><a href="https://www.swansea.ac.uk/press-office/">Press</a></li>
+                            <li class="footer-links-list-item"><a href="https://www.swansea.ac.uk/about-us/safety-and-security/health-and-safety/">Health &amp; Safety</a></li>
+                            <li class="footer-links-list-item"><a href="https://www.swansea.ac.uk/disclaimer-and-copyright/">Disclaimer &amp; Copyright</a></li>
+                            <li class="footer-links-list-item"><a href="https://www.swansea.ac.uk/privacyandcookies/">Privacy &amp; Cookies</a></li>
+                            <li class="footer-links-list-item"><a href="https://www.swansea.ac.uk/media/Modern-Slavery-Statement.pdf">Modern Slavery Statement</a></li>
+                            <li class="footer-links-list-item"><a href="https://www.swansea.ac.uk/the-university/accessibility/swansea-ac-uk/">Accessibility Statement</a></li>
+                        </ul>
+                        <ul class="footer-info-list">
+                            <li class="footer-info-list-item">Swansea University is a registered charity, No. 1138342</li>
+                        </ul>
+                    </div>
+                    <!--<div class="footer-social">
+                        <ul class="footer-social-list">
+                            <li class="footer-social-list-item">
+                                <a href="https://www.facebook.com/swanseauniversity/">
+                                    <img src="/_web/img/icons/24x24/facebook-white.png" alt="Facebook link">
+                                </a>
+                            </li>
+                            <li class="footer-social-list-item">
+                                <a href="https://www.instagram.com/swanseauni/?hl=en">
+                                    <img src="/_web/img/icons/24x24/instagram-white.png" alt="Instagram link">
+                                </a>
+                            </li>
+                            <li class="footer-social-list-item">
+                                <a href="https://twitter.com/SwanseaUni">
+                                    <img src="/_web/img/icons/24x24/twitter-white.png" alt="Twitter link">
+                                </a>
+                            </li>
+                            <li class="footer-social-list-item">
+                                <a href="https://www.youtube.com/user/SwanseaUniVideo">
+                                    <img src="/_web/img/icons/24x24/youtube-white.png" alt="youtube link">
+                                </a>
+                            </li>
+                            <li class="footer-social-list-item">
+                                <a href="https://www.flickr.com/photos/swanseauniversity/">
+                                    <img src="/_web/img/icons/24x24/flickr-white.png" alt="flickr link">
+                                </a>
+                            </li>
+                            <li class="footer-social-list-item">
+                                <a href="https://www.linkedin.com/school/swansea-university/">
+                                    <img src="/_web/img/icons/24x24/linkedin-white.png" alt="linkedin link">
+                                </a>
+                            </li>
+                        </ul>
+                    </div>-->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container logos">
+        <div class="row">
+            <div class="col">
+                <img src="assets/images/su-logo-blue-2x.png" alt="Swansea University">
+                <img src="assets/images/lilw-logo-blue.png" alt="Legal Innovation Lab Wales">
+                <img class="erdf" src="assets/images/erdf.png" alt="European Regional Development Fund">
+            </div>
+        </div>
+
+    </div>
+</footer>
+
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+
+<!-- include if following js date picker being used
+<script
+src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/js/bootstrap-datepicker.min.js"></script>
+-->
+<!-- <script src="js/suds.js"></script> -->
+
+
+<script>
+    /* Call datepicker in your JS as follows if being used
+    (function ($) {
+        $('#datepicker').datepicker();
+    })(jQuery);
+    */
+</script>
+
+<!-- Custom JS -->
+<script src="assets/js/parseData.js"></script>
+
+
+</body>
+
+</html>
