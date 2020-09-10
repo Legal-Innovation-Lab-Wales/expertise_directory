@@ -9,7 +9,6 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    - cron: '*/15 * * * *'
     - cron: '0 0 * * *'
 
 jobs:
@@ -36,6 +35,6 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - run: |
         python3 scrape-data.py
-    - name: check for changes
+    - name: Check for Changes
       run: git status
         
