@@ -27,11 +27,7 @@ def get_staff(college):
 	staff_in_list= staff_all.find_all('li')
 	for staff in staff_in_list:
 	 	staff_url = staff.find('a')['href']
-	 	print (staff_url)
-
-
-
-
+	 	get_name_and_aoe_list(staff_url)
 
 
 
@@ -46,8 +42,10 @@ def get_name_and_aoe_list(staff_url):
 	name = soup.find(class_='staff-profile-overview-honorific-prefix-and-full-name')
 	aoe_list = soup.find(class_='staff-profile-areas-of-expertise')
 
-	print(name.text.strip())
-	print(aoe_list.ul.text.strip())
+	if aoe_list:
+
+		print(name.text.strip())
+		print(aoe_list.ul.text.strip())
 
 
 get_staff('law')
