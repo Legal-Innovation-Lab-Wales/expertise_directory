@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+from datetime import datetime
 
 def get_colleges():
 
@@ -24,7 +25,6 @@ def get_staff(college):
 	page = requests.get(URL)
 	soup = BeautifulSoup(page.content, 'html.parser')
 	jsondata[college]=[]
-
 
 
 	staff_all = soup.find(class_='contextual-nav')
@@ -70,8 +70,10 @@ def get_name_and_aoe_list(staff_url):
 
 
 jsondata = {}
-get_staff('law')
 
+jsondata['last_update'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+get_staff('law')
+#print (jsondata)
 
 with open('expertise.json', 'w', encoding='utf-8') as file:
 	json.dump(jsondata, file, ensure_ascii=False, indent=4)
