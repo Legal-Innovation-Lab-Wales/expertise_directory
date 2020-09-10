@@ -75,5 +75,5 @@ get_staff('law')
 #print (jsondata)
 
 print('Save Output File')
-with open('expertise.json', 'w', encoding='utf-8') as file:
+with open('new-expertise.json', 'w', encoding='utf-8') as file:
 	json.dump(jsondata, file, ensure_ascii=False, indent=4)
