@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 from datetime import datetime
 
+
 def get_colleges():
 
 	URL = 'https://www.swansea.ac.uk/staff/'
@@ -24,8 +25,8 @@ def get_staff(college):
 	URL = 'https://www.swansea.ac.uk/staff/' + college
 	page = requests.get(URL)
 	soup = BeautifulSoup(page.content, 'html.parser')
-	jsondata[college]=[]
 
+	jsondata[college] = []
 
 	staff_all = soup.find(class_='contextual-nav')
 	staff_in_list= staff_all.find_all('li')
@@ -41,7 +42,6 @@ def get_name_and_aoe_list(staff_url):
 
 	URL = 'https://www.swansea.ac.uk/' + staff_url
 	page = requests.get(URL)
-
 	soup = BeautifulSoup(page.content, 'html.parser')
 
 	staff_member = {}
@@ -50,18 +50,18 @@ def get_name_and_aoe_list(staff_url):
 	name = soup.find(class_='staff-profile-overview-honorific-prefix-and-full-name')
 	if name:
 		name = name.text.strip()
-		#print(name)
+		# print(name)
 
 	aoe_list = soup.find(class_='staff-profile-areas-of-expertise')
 	if aoe_list:
-		#add to dict
+		# add to dict
 		staff_member['name'] = name
 
-		#remove html
+		# remove html
 		aoe_list = aoe_list.ul.text.strip()
-		#remove line breaks
+		# remove line breaks
 		aoe_list = aoe_list.replace("\n", ", ").strip()
-		#add to dict
+		# add to dict
 		staff_member['expertise'] = aoe_list
 
 		return staff_member
@@ -72,7 +72,7 @@ jsondata = {}
 jsondata['last_update'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 print('Getting Staff Details')
 get_staff('law')
-#print (jsondata)
+# print (jsondata)
 
 print('Save Output File')
 with open('new-expertise.json', 'w', encoding='utf-8') as file:
