@@ -93,8 +93,8 @@ print('Getting Staff Details')
 
 # get_colleges()
 get_staff('law')
-print (jsondata)
+# print (jsondata)
 
-# print('Save Output File')
-# with open('new-expertise.json', 'w', encoding='utf-8') as file:
-# 	json.dump(jsondata, file, ensure_ascii=False, indent=4)
+print('Save Output File')
+with open('new-expertise.json', 'w', encoding='utf-8') as file:
+	json.dump(jsondata, file, ensure_ascii=False, indent=4)
