@@ -75,6 +75,7 @@ def get_name_and_aoe_list(staff_url):
 	if aoe_list:
 		# add to dict
 		staff_member['name'] = name
+		staff_member['url'] = URL
 
 		# remove html
 		aoe_list = aoe_list.ul.text.strip()
