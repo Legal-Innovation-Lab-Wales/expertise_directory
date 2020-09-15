@@ -59,7 +59,7 @@ def get_staff(college):
 
 def get_name_and_aoe_list(staff_url):
 
-	URL = 'https://www.swansea.ac.uk/' + staff_url
+	URL = 'https://www.swansea.ac.uk' + staff_url
 	page = requests.get(URL)
 	soup = BeautifulSoup(page.content, 'html.parser')
 
@@ -89,12 +89,12 @@ def get_name_and_aoe_list(staff_url):
 
 jsondata = {}
 
-jsondata['last_update'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+jsondata['last_update'] = datetime.now().strftime("%H:%M %d-%m-%Y")
 print('Getting Staff Details')
 
 # get_colleges()
 get_staff('law')
-# print (jsondata)
+# print(jsondata)
 
 print('Save Output File')
 with open('new-expertise.json', 'w', encoding='utf-8') as file:

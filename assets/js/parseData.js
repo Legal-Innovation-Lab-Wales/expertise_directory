@@ -32,12 +32,17 @@ function processData () {
 
     document.getElementById('last_updated').innerHTML = json_data.last_update;
 
+
     if(json_data.law){
         var len = json_data.law.length;
         var txt = "";
         if(len > 0){
             for(var i=0;i<len;i++){
-                txt += "<tr><td>"+json_data.law[i].name +"</td><td>"+json_data.law[i].expertise+"</td></tr>";
+
+                txt += "<tr>"+
+                    "<td nowrap class='staff-name'><a href='"+ json_data.law[i].url +"' target='_blank'>"+ json_data.law[i].name + "</a></td>"+
+                    "<td>"+json_data.law[i].expertise+"</td>"+
+                    "</tr>";
             }
             if(txt !== ""){
                 $("#table").append(txt).removeClass("hidden");
