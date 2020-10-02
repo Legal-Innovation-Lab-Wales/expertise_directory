@@ -13,8 +13,6 @@ def get_colleges():
 
 	colleges = soup.find(class_='contextual-nav')
 
-
-
 	# URL = 'https://www.swansea.ac.uk/staff/'
 	# page = requests.get(URL)
 	# soup = BeautifulSoup(page.content, 'html.parser')
@@ -39,8 +37,8 @@ def get_colleges():
 	# print(colleges)
 
 
-def get_staff(college):
-
+def get_law_staff():
+	college = 'law'
 	URL = 'https://www.swansea.ac.uk/staff/' + college
 	page = requests.get(URL)
 	soup = BeautifulSoup(page.content, 'html.parser')
@@ -93,7 +91,7 @@ jsondata['last_update'] = datetime.now().strftime("%H:%M %d-%m-%Y")
 print('Getting Staff Details')
 
 # get_colleges()
-get_staff('law')
+get_law_staff()
 # print(jsondata)
 
 print('Save Output File')
