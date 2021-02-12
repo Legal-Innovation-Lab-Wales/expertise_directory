@@ -35,7 +35,7 @@ export default class Directory extends React.Component {
     fetch('/expertise.json')
         .then(response => response.json())
         .then(data => {
-          this.setState(data)
+          this.setState({...this.state, ...data})
         })
         .catch(err => console.error(err))
   }
