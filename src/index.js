@@ -1,9 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import Directory from "./components/directory";
 
-// ReactDOM.render(
-//   <React.StrictMode>
-//   </React.StrictMode>,
-//   document.getElementById('root')
-// );
+ReactDOM.render(<Directory/>, document.getElementById('main'));
