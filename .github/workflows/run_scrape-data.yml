@@ -36,12 +36,12 @@ jobs:
     - name: Get Data
       run: |
         python3 scrape-data.py
-        mv -f new-expertise.json ./expertise.json
+        mv -f new-expertise.json ./public/expertise.json
     - name: Commit files # commit the output folder
       run: |
         git config --local user.email "github@purpleriver.dev"
         git config --local user.name "Phil-6"
-        git add ./expertise.json
+        git add ./public/expertise.json
         git commit -m "Automated Update of Expertise"
     - name: Push changes # push the output folder to your repo
       uses: ad-m/github-push-action@master
