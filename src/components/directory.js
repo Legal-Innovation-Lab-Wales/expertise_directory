@@ -52,20 +52,18 @@ export default class Directory extends React.Component {
                 <input id='filter-input' type='text' className='form-control' placeholder='Filter Results...'
                        onKeyUp={(e) => {this.handleKeyUp(e)}}/>
               </div>
-              <div className='last_updated'>Last Updated at: <span id='last_updated'>{this.state.last_update}</span></div>
-
-              { this.state.law.length > 0 ?
-                <table id='table' className='expertise-table table'>
-                  <thead>
-                  <tr>
-                    <th scope='col'>Name</th>
-                    <th scope='col'>Expertise</th>
-                  </tr>
-                  </thead>
-                  <tbody id='table-body'>
-                    { this.state.law.map(staff_member => <DirectoryRow key={staff_member.name} staff_member={staff_member}/>) }
-                  </tbody>
-                </table> : <div/>}
+              <div>Last Updated at: {this.state.last_update}</div>
+              <table id='table' className='expertise-table table'>
+                <thead>
+                <tr>
+                  <th scope='col'>Name</th>
+                  <th scope='col'>Expertise</th>
+                </tr>
+                </thead>
+                <tbody id='table-body'>
+                  { this.state.law.map(staff_member => <DirectoryRow key={staff_member.name} staff_member={staff_member}/>) }
+                </tbody>
+              </table>
             </Col>
           </Row>
         </Container>

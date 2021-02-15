@@ -1,3 +1,14 @@
-.filter-div{
+.filter-div {
     width: 200px;
+}
+
+.staff-name {
+    width: 200px;
+
+}
+
+@media (min-width: 768px) {
+    .staff-name {
+        width: 270px;
+    }
 }
