@@ -4,10 +4,10 @@ import './directory.css'
 
 function DirectoryRow(props) {
   return (
-    <tr>
+    <tr className={`${props.college} ${props.department}`}>
       <td nowrap='true' className='staff-name'>
         <a href={props.staff_member.url} target='_blank'>{props.staff_member.name}</a></td>
-      <td>{props.staff_member.expertise}</td>
+      <td>{props.staff_member.expertise.join(', ')}</td>
     </tr>
   )
 }
@@ -18,7 +18,7 @@ export default class Directory extends React.Component {
 
     this.state = {
       last_update: '',
-      law: []
+      colleges: []
     }
   }
 
@@ -61,7 +61,14 @@ export default class Directory extends React.Component {
                 </tr>
                 </thead>
                 <tbody id='table-body'>
-                  { this.state.law.map(staff_member => <DirectoryRow key={staff_member.name} staff_member={staff_member}/>) }
+                  { this.state.colleges.map(college => {
+                    return college['departments'].map(department => {
+                      return department['staff'].map(staff_member => {
+                        return <DirectoryRow key={`${college.key}_${department.key}_${staff_member.name.toLowerCase().replaceAll(' ', '_')}`}
+                                             college={college.key} department={department.key} staff_member={staff_member}/>
+                      });
+                    })
+                  }) }
                 </tbody>
               </table>
             </Col>
