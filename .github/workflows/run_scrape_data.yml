@@ -6,9 +6,9 @@ name: run scrape_data.py
 on:
   workflow_dispatch:
   push:
-    branches: [ feature/DT-88 ]
+    branches: [ master ]
   pull_request:
-    branches: [ feature/DT-88 ]
+    branches: [ master ]
   schedule:
     - cron: '0 0 * * *'
 
@@ -48,5 +48,4 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: feature/DT-88
         force: true
