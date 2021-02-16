@@ -8,7 +8,7 @@ on:
   push:
     branches: [ feature/DT-88 ]
   pull_request:
-    branches: [ master ]
+    branches: [ feature/DT-88 ]
   schedule:
     - cron: '0 0 * * *'
 
@@ -45,7 +45,7 @@ jobs:
         git add ./public/expertise.json
         git commit -m "Automated Update of Expertise"
     - name: Push changes # push the output folder to your repo
-      uses: ad-m/github-push-action@master
+      uses: ad-m/github-push-action@feature/DT-88
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         force: true
