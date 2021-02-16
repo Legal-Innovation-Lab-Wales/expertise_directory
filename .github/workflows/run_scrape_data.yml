@@ -6,7 +6,7 @@ name: run scrape_data.py
 on:
   workflow_dispatch:
   push:
-    branches: [ master ]
+    branches: [ feature/DT-88 ]
   pull_request:
     branches: [ master ]
   schedule:
