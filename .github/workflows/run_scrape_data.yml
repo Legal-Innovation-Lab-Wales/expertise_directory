@@ -10,6 +10,7 @@ on:
     branches: [ master ]
   schedule:
     - cron: '0 0 * * *'
+  [workflow_dispatch]
 
 jobs:
   run:
@@ -35,8 +36,8 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Get Data
       run: |
+        cd scripts
         python3 scrape_data.py
-        mv -f new-expertise.json ./public/expertise.json
     - name: Commit files # commit the output folder
       run: |
         git config --local user.email "github@purpleriver.dev"
