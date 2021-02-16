@@ -17,5 +17,5 @@ with ThreadPoolExecutor() as executor:
 	for future in futures:
 		json_data['colleges'].append(future.result())
 
-with open('../new-expertise.json', 'w', encoding='utf-8') as file:
+with open('../public/expertise.json', 'w', encoding='utf-8') as file:
 	json.dump(json_data, file, ensure_ascii=False, indent=4)

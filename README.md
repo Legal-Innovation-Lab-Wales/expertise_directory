@@ -29,11 +29,6 @@ python).
 
 You can then run the data scraping scripts from the ```scripts``` folder using ```python scrape_data.py```.
 
-Once the script has run a new JSON file called ```new-expertise.json``` will be generated in the projects root folder,
-to use this file in your  local deployment you will need to move it to the ```public``` folder and rename it 
-```expertise.json```. You can do this from the ```scripts``` folder using 
-```mv ../new-expertise.json ../public/expertise.json```
-
 With the JSON file generated you can generate the web application using ```npm install```, once all the requisite
 dependencies are installed you can start the application using ```npm start```. This will launch the application at
 ```http://localhost:3000```.
