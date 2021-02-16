@@ -2,6 +2,8 @@ import concurrent.futures
 import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
+import string
+import re
 
 # Scrape the staff from a departments table
 def scrape_staff(department, url, table):
@@ -52,6 +54,10 @@ def get_expertise(url_prefix, list_item):
 					text = text.replace('* ', '')  # Some staff have an odd bullet point character in their AOE
 					text = text.replace(',', '')
 					text = text.replace(';', '')
+					text = text.replace('•', '')
+					text = text.strip()
+					text = re.sub('^-', '', text)
+					text = string.capwords(text)
 
 					expertise.append(text)
 

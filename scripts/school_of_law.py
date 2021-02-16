@@ -2,6 +2,7 @@ from concurrent.futures import ThreadPoolExecutor
 import requests
 from bs4 import BeautifulSoup
 from scrape_expertise import scrape_staff
+import string
 
 url = 'https://www.swansea.ac.uk/staff/law'
 
@@ -10,7 +11,7 @@ def get_department_staff(soup, department):
 
 	return {
 		'key': department,
-		'name': department,
+		'name': string.capwords(department),
 		'staff': scrape_staff(department, url, section.find('table'))
 	}
 
@@ -20,7 +21,7 @@ def get_staff():
 
 	college = {
 		'key': 'hrc_school_of_law',
-		'name': 'Hillary Rodham Clinton School Of Law',
+		'name': 'Hillary Rodham Clinton School of Law',
 		'departments': []
 	}
 

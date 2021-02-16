@@ -44,7 +44,7 @@ def get_staff():
 
 	college = {
 		'key': 'college_of_arts_and_humanities',
-		'name': 'College Of Arts & Humanities',
+		'name': 'College of Arts & Humanities',
 		'departments': []
 	}
 
