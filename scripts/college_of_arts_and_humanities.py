@@ -1,7 +1,7 @@
 import concurrent.futures
 import requests
 from bs4 import BeautifulSoup
-from scrape_expertise import get_expertise
+from scrape_expertise import scrape_expertise
 from tqdm import tqdm
 
 url_domain = 'https://www.swansea.ac.uk'
@@ -23,7 +23,7 @@ def get_department_staff(department):
 		progressbar.set_description('Processing {} department aoe'.format(key))
 
 		with concurrent.futures.ThreadPoolExecutor() as executor:
-			futures = {executor.submit(get_expertise, url_domain, list_item): list_item for list_item in list_items}
+			futures = {executor.submit(scrape_expertise, url_domain, list_item): list_item for list_item in list_items}
 
 			for future in concurrent.futures.as_completed(futures):
 				staff_member = future.result()

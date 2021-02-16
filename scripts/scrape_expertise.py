@@ -5,7 +5,7 @@ from tqdm import tqdm
 import string
 import re
 
-# Scrape the staff from a departments table
+# Scrape the staff from a departments table - this code can be shared between SOL and COS but not COAH
 def scrape_staff(department, url, table):
 	staff_data = []
 	rows = table.find_all('tr')
@@ -14,7 +14,7 @@ def scrape_staff(department, url, table):
 		progressbar.set_description('Processing {} department aoe'.format(department))
 
 		with concurrent.futures.ThreadPoolExecutor() as executor:
-			futures = {executor.submit(get_expertise, url, row.find_all('td')[0]): row for row in rows}
+			futures = {executor.submit(scrape_expertise, url, row.find_all('td')[0]): row for row in rows}
 
 			for future in concurrent.futures.as_completed(futures):
 				staff_member = future.result()
@@ -25,7 +25,8 @@ def scrape_staff(department, url, table):
 
 	return staff_data
 
-def get_expertise(url_prefix, list_item):
+# Scrape the expertise from a staff members page
+def scrape_expertise(url_prefix, list_item):
 	link = list_item.find('a')
 	staff_member = {}
 
