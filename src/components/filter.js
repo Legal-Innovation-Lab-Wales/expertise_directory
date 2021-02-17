@@ -2,10 +2,6 @@ import React from "react"
 import {Col, Container, Form, Row} from "react-bootstrap"
 
 export default class Filter extends React.Component {
-  constructor(props) {
-    super(props)
-  }
-
   handleKeyUp(e) {
     const value = e.target.value.toLowerCase()
     const rows = document.querySelectorAll('#table-body tr')
