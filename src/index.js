@@ -1,0 +1,14 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
+import Directory from './components/directory'
+import {Header,Footer} from 'lilw-react-components-test'
+
+ReactDOM.render([
+  <Header a11y_header_desc='Expertise Directory'/>,
+  <main>
+    <Directory/>
+  </main>,
+  <Footer/>
+  ],
+  document.getElementById('root')
+)
