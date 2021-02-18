@@ -1,4 +1,17 @@
-# Legal Innovation Lab Wales - Swansea University Expertise Directory 
+<p align="center">
+  <img src="logo-header-svg.jpg">
+</p>
+
+<p align="center">
+  <a href="#introduction">Introduction & Motivation</a> •
+  <a href="#limitations">Limitations</a> •
+  <a href="#build">Build</a> •
+    <a href="#credit-and-licence">Credit and Licence</a> •
+  <br>
+</p>
+
+
+##Introduction
 
 This project is a web application that collates the "Areas of Expertise" that live on individual staff member profiles 
 into a single page and allows them to be filtered with a free text box and department dropdown.
@@ -32,3 +45,8 @@ You can then run the data scraping scripts from the ```scripts``` folder using `
 With the JSON file generated you can generate the web application using ```npm install```, once all the requisite
 dependencies are installed you can start the application using ```npm start```. This will launch the application at
 ```http://localhost:3000```.
+
+## Credits and licence
+[MIT License](https://github.com/Legal-Innovation-Lab-Wales/quiz-builder/blob/add-license-1/LICENSE)
+
+[Legal Innovation Lab Wales](https://legaltech.wales/) 
