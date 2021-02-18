@@ -6,7 +6,7 @@
   <a href="#introduction">Introduction & Motivation</a> •
   <a href="#limitations">Limitations</a> •
   <a href="#build">Build</a> •
-    <a href="#credit-and-licence">Credit and Licence</a> •
+    <a href="#credit-and-license">Credit and License</a> •
   <br>
 </p>
 
@@ -46,7 +46,7 @@ With the JSON file generated you can generate the web application using ```npm i
 dependencies are installed you can start the application using ```npm start```. This will launch the application at
 ```http://localhost:3000```.
 
-## Credits and licence
+## Credits and license
 [MIT License](https://github.com/Legal-Innovation-Lab-Wales/expertise-directory/blob/add-license-1/LICENSE)
 
 [Legal Innovation Lab Wales](https://legaltech.wales/) 
