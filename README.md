@@ -11,7 +11,7 @@
 </p>
 
 
-##Introduction
+### Introduction
 
 This project is a web application that collates the "Areas of Expertise" that live on individual staff member profiles 
 into a single page and allows them to be filtered with a free text box and department dropdown.
