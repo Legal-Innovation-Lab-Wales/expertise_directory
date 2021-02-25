@@ -1,5 +1,5 @@
 {
-    "last_update": "00:23 24-02-2021",
+    "last_update": "00:23 25-02-2021",
     "colleges": [
         {
             "key": "hrc_school_of_law",
@@ -10,6 +10,17 @@
                     "name": "Law",
                     "staff": [
                         {
+                            "name": "Dr Lia Amaxilati",
+                            "url": "https://www.swansea.ac.uk/staff/law/amaxilati-z/",
+                            "expertise": [
+                                "Admiralty Law",
+                                "Maritime Labour Law",
+                                "Personal Injury Claims",
+                                "Charterparties",
+                                "Tort Law"
+                            ]
+                        },
+                        {
                             "name": "Dr Ruth Atkins",
                             "url": "https://www.swansea.ac.uk/staff/law/ruth-atkins/",
                             "expertise": [
@@ -17,6 +28,16 @@
                                 "Contract Management",
                                 "Commercial Law",
                                 "B2b Software Contracts"
+                            ]
+                        },
+                        {
+                            "name": "Mr Andrew Beale",
+                            "url": "https://www.swansea.ac.uk/staff/law/andrewbeale",
+                            "expertise": [
+                                "Law Of Intellectual Assets Management & Transactions",
+                                "Ip Aspects Of Oil & Gas Law",
+                                "International Intellectual Property Law",
+                                "Ip Aspects Of Ecommerce"
                             ]
                         },
                         {
@@ -30,17 +51,6 @@
                             ]
                         },
                         {
-                            "name": "Dr Lia Amaxilati",
-                            "url": "https://www.swansea.ac.uk/staff/law/amaxilati-z/",
-                            "expertise": [
-                                "Admiralty Law",
-                                "Maritime Labour Law",
-                                "Personal Injury Claims",
-                                "Charterparties",
-                                "Tort Law"
-                            ]
-                        },
-                        {
                             "name": "Mr Stefano Barazza",
                             "url": "https://www.swansea.ac.uk/staff/law/stefano-barazza/",
                             "expertise": [
@@ -49,13 +59,22 @@
                             ]
                         },
                         {
-                            "name": "Mr Andrew Beale",
-                            "url": "https://www.swansea.ac.uk/staff/law/andrewbeale",
+                            "name": "Professor Maura Conway",
+                            "url": "https://www.swansea.ac.uk/staff/law/conway-m/",
                             "expertise": [
-                                "Law Of Intellectual Assets Management & Transactions",
-                                "Ip Aspects Of Oil & Gas Law",
-                                "International Intellectual Property Law",
-                                "Ip Aspects Of Ecommerce"
+                                "Online Extremism",
+                                "Online Terrorism",
+                                "Online Radicalisation",
+                                "Cyberterrorism",
+                                "Online Counterterrorism"
+                            ]
+                        },
+                        {
+                            "name": "Professor Ruth Costigan",
+                            "url": "https://www.swansea.ac.uk/staff/law/ruthcostigan/",
+                            "expertise": [
+                                "Criminal Evidence Law",
+                                "Human Rights Law (uk And Echr)"
                             ]
                         },
                         {
@@ -83,22 +102,12 @@
                             ]
                         },
                         {
-                            "name": "Professor Maura Conway",
-                            "url": "https://www.swansea.ac.uk/staff/law/conway-m/",
+                            "name": "Mrs Karen Davies",
+                            "url": "https://www.swansea.ac.uk/staff/law/davies-k/",
                             "expertise": [
-                                "Online Extremism",
-                                "Online Terrorism",
-                                "Online Radicalisation",
-                                "Cyberterrorism",
-                                "Online Counterterrorism"
-                            ]
-                        },
-                        {
-                            "name": "Professor Ruth Costigan",
-                            "url": "https://www.swansea.ac.uk/staff/law/ruthcostigan/",
-                            "expertise": [
-                                "Criminal Evidence Law",
-                                "Human Rights Law (uk And Echr)"
+                                "Employment Law",
+                                "Law Of The European Union",
+                                "English Legal System"
                             ]
                         },
                         {
@@ -112,12 +121,14 @@
                             ]
                         },
                         {
-                            "name": "Mrs Karen Davies",
-                            "url": "https://www.swansea.ac.uk/staff/law/davies-k/",
+                            "name": "Dr Tom Hannant",
+                            "url": "https://www.swansea.ac.uk/staff/law/tomhannant/",
                             "expertise": [
-                                "Employment Law",
-                                "Law Of The European Union",
-                                "English Legal System"
+                                "Public Law",
+                                "Legal Theory",
+                                "Political Theory",
+                                "Human Rights",
+                                "Devolution"
                             ]
                         },
                         {
@@ -129,17 +140,6 @@
                                 "Devolution",
                                 "Political Theory",
                                 "Public Law"
-                            ]
-                        },
-                        {
-                            "name": "Dr Tom Hannant",
-                            "url": "https://www.swansea.ac.uk/staff/law/tomhannant/",
-                            "expertise": [
-                                "Public Law",
-                                "Legal Theory",
-                                "Political Theory",
-                                "Human Rights",
-                                "Devolution"
                             ]
                         },
                         {
@@ -164,6 +164,15 @@
                             ]
                         },
                         {
+                            "name": "Dr Tabetha Kurtz-Shefford",
+                            "url": "https://www.swansea.ac.uk/staff/law/tabethakurtz-shefford/",
+                            "expertise": [
+                                "International Renewable Energy Law",
+                                "Offshore Oil And Gas Contracts And Liabilities",
+                                "Admiralty Law"
+                            ]
+                        },
+                        {
                             "name": "Dr Caroline Jones",
                             "url": "https://www.swansea.ac.uk/staff/law/jones-c/",
                             "expertise": [
@@ -177,12 +186,14 @@
                             ]
                         },
                         {
-                            "name": "Dr Tabetha Kurtz-Shefford",
-                            "url": "https://www.swansea.ac.uk/staff/law/tabethakurtz-shefford/",
+                            "name": "Mr Richard Leonard-Davies",
+                            "url": "https://www.swansea.ac.uk/staff/law/richardleonard-davies/",
                             "expertise": [
-                                "International Renewable Energy Law",
-                                "Offshore Oil And Gas Contracts And Liabilities",
-                                "Admiralty Law"
+                                "Business Law",
+                                "Company Law",
+                                "Employment Law",
+                                "Property Law",
+                                "Competition Law"
                             ]
                         },
                         {
@@ -196,17 +207,6 @@
                                 "Political Theory",
                                 "Public Law",
                                 "The European Convention On Human Rights"
-                            ]
-                        },
-                        {
-                            "name": "Mr Richard Leonard-Davies",
-                            "url": "https://www.swansea.ac.uk/staff/law/richardleonard-davies/",
-                            "expertise": [
-                                "Business Law",
-                                "Company Law",
-                                "Employment Law",
-                                "Property Law",
-                                "Competition Law"
                             ]
                         },
                         {
@@ -232,6 +232,16 @@
                             ]
                         },
                         {
+                            "name": "Dr Ryan Murphy",
+                            "url": "https://www.swansea.ac.uk/staff/law/ryan-murphy/",
+                            "expertise": [
+                                "English And Welsh Legal System",
+                                "Legal Education",
+                                "European Union Law",
+                                "The Free Movement Of Capital In The Eu"
+                            ]
+                        },
+                        {
                             "name": "Professor Stuart Macdonald",
                             "url": "https://www.swansea.ac.uk/staff/law/stuartmacdonald/",
                             "expertise": [
@@ -241,16 +251,6 @@
                                 "Counterterrorism",
                                 "Terrorists’ Use Of The Internet",
                                 "Cyberterrorism"
-                            ]
-                        },
-                        {
-                            "name": "Professor Yvonne McDermott Rees",
-                            "url": "https://www.swansea.ac.uk/staff/law/yvonnemcdermottrees/",
-                            "expertise": [
-                                "International Criminal Law",
-                                "Evidence And Proof",
-                                "Human Rights",
-                                "Fair Trial Rights"
                             ]
                         },
                         {
@@ -264,6 +264,16 @@
                             ]
                         },
                         {
+                            "name": "Professor Yvonne McDermott Rees",
+                            "url": "https://www.swansea.ac.uk/staff/law/yvonnemcdermottrees/",
+                            "expertise": [
+                                "International Criminal Law",
+                                "Evidence And Proof",
+                                "Human Rights",
+                                "Fair Trial Rights"
+                            ]
+                        },
+                        {
                             "name": "Professor Richard Owen",
                             "url": "https://www.swansea.ac.uk/staff/law/richardowen/",
                             "expertise": [
@@ -271,16 +281,6 @@
                                 "Legal Advice Services",
                                 "Welsh Law",
                                 "Access To Justice"
-                            ]
-                        },
-                        {
-                            "name": "Dr Ryan Murphy",
-                            "url": "https://www.swansea.ac.uk/staff/law/ryan-murphy/",
-                            "expertise": [
-                                "English And Welsh Legal System",
-                                "Legal Education",
-                                "European Union Law",
-                                "The Free Movement Of Capital In The Eu"
                             ]
                         },
                         {
@@ -326,6 +326,16 @@
                             ]
                         },
                         {
+                            "name": "Professor Baris Soyer",
+                            "url": "https://www.swansea.ac.uk/staff/law/barissoyer/",
+                            "expertise": [
+                                "Commercial And Maritime Law",
+                                "Insurance Law",
+                                "Law Of Obligations",
+                                "Charterparties"
+                            ]
+                        },
+                        {
                             "name": "Dr Katy Vaughan",
                             "url": "https://www.swansea.ac.uk/staff/law/katyvaughan/",
                             "expertise": [
@@ -334,16 +344,6 @@
                                 "Access To Justice",
                                 "Right To A Fair Trial",
                                 "European Convention On Human Rights"
-                            ]
-                        },
-                        {
-                            "name": "Professor Baris Soyer",
-                            "url": "https://www.swansea.ac.uk/staff/law/barissoyer/",
-                            "expertise": [
-                                "Commercial And Maritime Law",
-                                "Insurance Law",
-                                "Law Of Obligations",
-                                "Charterparties"
                             ]
                         },
                         {
@@ -359,6 +359,16 @@
                             ]
                         },
                         {
+                            "name": "Dr Shuangge Wen",
+                            "url": "https://www.swansea.ac.uk/staff/law/shuanggewen/",
+                            "expertise": [
+                                "Company Law",
+                                "Corporate Governance",
+                                "Business Ethics",
+                                "And General Aspects Of Business Law"
+                            ]
+                        },
+                        {
                             "name": "Mr Joe Whittaker",
                             "url": "https://www.swansea.ac.uk/staff/law/whittaker-j-j",
                             "expertise": [
@@ -368,16 +378,6 @@
                                 "Countering Violent Extremism",
                                 "Terror Finance",
                                 "Video Games And Extremism"
-                            ]
-                        },
-                        {
-                            "name": "Dr Shuangge Wen",
-                            "url": "https://www.swansea.ac.uk/staff/law/shuanggewen/",
-                            "expertise": [
-                                "Company Law",
-                                "Corporate Governance",
-                                "Business Ethics",
-                                "And General Aspects Of Business Law"
                             ]
                         },
                         {
@@ -415,20 +415,6 @@
                     "name": "Criminology",
                     "staff": [
                         {
-                            "name": "Dr Anthony Charles",
-                            "url": "http://www.swansea.ac.uk/staff/law/anthonycharles/",
-                            "expertise": [
-                                "Youth Justice",
-                                "Children's Participation In Decision Making",
-                                "Children's Rights",
-                                "Consultation With Children And Young People",
-                                "Youth Crime Prevention",
-                                "Multi-agency Crime Prevention",
-                                "Young People's Use Of Substances",
-                                "Youth Offending"
-                            ]
-                        },
-                        {
                             "name": "Dr Rick Lines",
                             "url": "https://www.swansea.ac.uk/staff/law/ricklines/",
                             "expertise": [
@@ -452,6 +438,15 @@
                             ]
                         },
                         {
+                            "name": "Dr Sam Hanks",
+                            "url": "http://www.swansea.ac.uk/staff/law/samhanks/",
+                            "expertise": [
+                                "Identity",
+                                "Stigma",
+                                "Migrant Sex Work"
+                            ]
+                        },
+                        {
                             "name": "Mrs Deborah Jones",
                             "url": "http://www.swansea.ac.uk/staff/law/deborahjones/",
                             "expertise": [
@@ -463,12 +458,17 @@
                             ]
                         },
                         {
-                            "name": "Dr Sam Hanks",
-                            "url": "http://www.swansea.ac.uk/staff/law/samhanks/",
+                            "name": "Dr Anthony Charles",
+                            "url": "http://www.swansea.ac.uk/staff/law/anthonycharles/",
                             "expertise": [
-                                "Identity",
-                                "Stigma",
-                                "Migrant Sex Work"
+                                "Youth Justice",
+                                "Children's Participation In Decision Making",
+                                "Children's Rights",
+                                "Consultation With Children And Young People",
+                                "Youth Crime Prevention",
+                                "Multi-agency Crime Prevention",
+                                "Young People's Use Of Substances",
+                                "Youth Offending"
                             ]
                         },
                         {
@@ -494,18 +494,6 @@
                             ]
                         },
                         {
-                            "name": "Dr Gemma Morgan",
-                            "url": "http://www.swansea.ac.uk/staff/law/gemmamorgan/",
-                            "expertise": [
-                                "Offender Rehabilitation",
-                                "Desistance",
-                                "Youth Justice",
-                                "Youth Offending",
-                                "Supervision Skills",
-                                "Evaluation Research"
-                            ]
-                        },
-                        {
                             "name": "Dr Elizabeth Pearson",
                             "url": "https://www.swansea.ac.uk/staff/law/elizabeth-pearson/",
                             "expertise": [
@@ -515,6 +503,18 @@
                                 "Extremism",
                                 "Radical Right",
                                 "Violent Jihad"
+                            ]
+                        },
+                        {
+                            "name": "Dr Gemma Morgan",
+                            "url": "http://www.swansea.ac.uk/staff/law/gemmamorgan/",
+                            "expertise": [
+                                "Offender Rehabilitation",
+                                "Desistance",
+                                "Youth Justice",
+                                "Youth Offending",
+                                "Supervision Skills",
+                                "Evaluation Research"
                             ]
                         },
                         {
@@ -534,20 +534,6 @@
                             ]
                         },
                         {
-                            "name": "Dr Kris Stoddart",
-                            "url": "https://www.swansea.ac.uk/staff/law/stoddart-k-d",
-                            "expertise": [
-                                "Cybersecurity",
-                                "Cyberwarfare",
-                                "Cyberespionage",
-                                "Cyber Terrorism",
-                                "Cybercrime And The Law",
-                                "International Security",
-                                "Intelligence Studies",
-                                "Nuclear Weapons"
-                            ]
-                        },
-                        {
                             "name": "Professor Maurice Vanstone",
                             "url": "https://www.swansea.ac.uk/staff/law/mauricevanstone",
                             "expertise": [
@@ -559,6 +545,20 @@
                                 "Prisoner Resettlement",
                                 "Perpetrators Of Child Sexual Abuse",
                                 "Day Reporting Centres"
+                            ]
+                        },
+                        {
+                            "name": "Dr Kris Stoddart",
+                            "url": "https://www.swansea.ac.uk/staff/law/stoddart-k-d",
+                            "expertise": [
+                                "Cybersecurity",
+                                "Cyberwarfare",
+                                "Cyberespionage",
+                                "Cyber Terrorism",
+                                "Cybercrime And The Law",
+                                "International Security",
+                                "Intelligence Studies",
+                                "Nuclear Weapons"
                             ]
                         }
                     ]
@@ -574,42 +574,6 @@
                     "name": "Biosciences",
                     "staff": [
                         {
-                            "name": "Dr William Allen",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/w.l.allen",
-                            "expertise": [
-                                "Evolutionary Ecology",
-                                "Signalling And Communication",
-                                "Antipredator Adaptations",
-                                "Life History Evolution",
-                                "Sensory Systems"
-                            ]
-                        },
-                        {
-                            "name": "Miss Chiara Bertelli",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/c.m.bertelli/",
-                            "expertise": [
-                                "Seagrass Ecology",
-                                "Benthic And Fish Survey",
-                                "Benthic Invertebrate Taxonomy",
-                                "Rocky Shore Ecology",
-                                "Marine Mammal Survey",
-                                "Passive Acoustic Monitoring",
-                                "Data Analysis Using R And Primer"
-                            ]
-                        },
-                        {
-                            "name": "Dr Kevin Arbuckle",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/arbucklek/",
-                            "expertise": [
-                                "Evolutionary Biology",
-                                "Venomous And Poisonous Animals",
-                                "Phylogenetic Comparative Methods",
-                                "Convergent Evolution",
-                                "Herpetology",
-                                "Animal Husbandry"
-                            ]
-                        },
-                        {
                             "name": "Dr Sara Da Silva Pires Marques Barrento",
                             "url": "https://www.swansea.ac.uk/staff/science/biosciences/s.i.barrento",
                             "expertise": [
@@ -618,20 +582,6 @@
                                 "Sustainable Supply Chains",
                                 "Sustainable Marine Production (seaweeds And Marine Invertebrates Integrated Multi Trophic Aquaculture)",
                                 "Kelp Ecology"
-                            ]
-                        },
-                        {
-                            "name": "Dr James Bull",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/j.c.bull",
-                            "expertise": [
-                                "Ecological Statistics",
-                                "Long-term Monitoring",
-                                "Marine Mammals",
-                                "Metapopulations",
-                                "Pest Control",
-                                "Pollinators",
-                                "Population Dynamics And Genetics",
-                                "Seagrass"
                             ]
                         },
                         {
@@ -649,6 +599,88 @@
                             ]
                         },
                         {
+                            "name": "Dr William Allen",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/w.l.allen",
+                            "expertise": [
+                                "Evolutionary Ecology",
+                                "Signalling And Communication",
+                                "Antipredator Adaptations",
+                                "Life History Evolution",
+                                "Sensory Systems"
+                            ]
+                        },
+                        {
+                            "name": "Dr Kevin Arbuckle",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/arbucklek/",
+                            "expertise": [
+                                "Evolutionary Biology",
+                                "Venomous And Poisonous Animals",
+                                "Phylogenetic Comparative Methods",
+                                "Convergent Evolution",
+                                "Herpetology",
+                                "Animal Husbandry"
+                            ]
+                        },
+                        {
+                            "name": "Miss Chiara Bertelli",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/c.m.bertelli/",
+                            "expertise": [
+                                "Seagrass Ecology",
+                                "Benthic And Fish Survey",
+                                "Benthic Invertebrate Taxonomy",
+                                "Rocky Shore Ecology",
+                                "Marine Mammal Survey",
+                                "Passive Acoustic Monitoring",
+                                "Data Analysis Using R And Primer"
+                            ]
+                        },
+                        {
+                            "name": "Dr James Bull",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/j.c.bull",
+                            "expertise": [
+                                "Ecological Statistics",
+                                "Long-term Monitoring",
+                                "Marine Mammals",
+                                "Metapopulations",
+                                "Pest Control",
+                                "Pollinators",
+                                "Population Dynamics And Genetics",
+                                "Seagrass"
+                            ]
+                        },
+                        {
+                            "name": "Dr Christopher Coates",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/c.j.coates",
+                            "expertise": [
+                                "Invertebrate Immunology And Haematology",
+                                "Protein Structure Function And Diversity (e.g. Hemocyanins And Phenoloxidases)",
+                                "Aquaculture And (shell) Fisheries",
+                                "Alternative Disease Models"
+                            ]
+                        },
+                        {
+                            "name": "Dr Aisling Devine",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/devineap/",
+                            "expertise": [
+                                "Savanna Ecology",
+                                "Fire Ecology",
+                                "Miombo Woodlands",
+                                "Community Ecology",
+                                "Biodiversity",
+                                "Environmental Resources And Poverty Alleviation"
+                            ]
+                        },
+                        {
+                            "name": "Professor Sofia Consuegra del Olmo",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/s.consuegra/",
+                            "expertise": [
+                                "Evolutionary Ecology",
+                                "Conservation Genetics/omics",
+                                "Fisheries And Aquaculture",
+                                "Invasive Species"
+                            ]
+                        },
+                        {
                             "name": "Dr Ruth Callaway",
                             "url": "https://www.swansea.ac.uk/staff/science/biosciences/r.m.callaway",
                             "expertise": [
@@ -663,16 +695,6 @@
                             ]
                         },
                         {
-                            "name": "Dr Christopher Coates",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/c.j.coates",
-                            "expertise": [
-                                "Invertebrate Immunology And Haematology",
-                                "Protein Structure Function And Diversity (e.g. Hemocyanins And Phenoloxidases)",
-                                "Aquaculture And (shell) Fisheries",
-                                "Alternative Disease Models"
-                            ]
-                        },
-                        {
                             "name": "Dr Nicole Esteban",
                             "url": "https://www.swansea.ac.uk/staff/science/biosciences/n.esteban/",
                             "expertise": [
@@ -681,20 +703,6 @@
                                 "Sea Turtle Ecology",
                                 "Tropical Marine Conservation",
                                 "Biodiversity Conservation"
-                            ]
-                        },
-                        {
-                            "name": "Professor Dan Eastwood",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/d.c.eastwood/",
-                            "expertise": [
-                                "Fungal Biology",
-                                "Genomics",
-                                "Molecular Biology",
-                                "Transcriptomics",
-                                "Agaricus Bisporus",
-                                "Serpula Lacrymans",
-                                "Wood Decomposition",
-                                "Biofuels And Biorefineries"
                             ]
                         },
                         {
@@ -712,25 +720,17 @@
                             ]
                         },
                         {
-                            "name": "Professor Sofia Consuegra del Olmo",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/s.consuegra/",
+                            "name": "Professor Dan Eastwood",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/d.c.eastwood/",
                             "expertise": [
-                                "Evolutionary Ecology",
-                                "Conservation Genetics/omics",
-                                "Fisheries And Aquaculture",
-                                "Invasive Species"
-                            ]
-                        },
-                        {
-                            "name": "Dr Aisling Devine",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/devineap/",
-                            "expertise": [
-                                "Savanna Ecology",
-                                "Fire Ecology",
-                                "Miombo Woodlands",
-                                "Community Ecology",
-                                "Biodiversity",
-                                "Environmental Resources And Poverty Alleviation"
+                                "Fungal Biology",
+                                "Genomics",
+                                "Molecular Biology",
+                                "Transcriptomics",
+                                "Agaricus Bisporus",
+                                "Serpula Lacrymans",
+                                "Wood Decomposition",
+                                "Biofuels And Biorefineries"
                             ]
                         },
                         {
@@ -748,20 +748,6 @@
                             ]
                         },
                         {
-                            "name": "Dr Cynthia Froyd",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/c.froyd",
-                            "expertise": [
-                                "Long-term Ecology",
-                                "Forest Ecology",
-                                "Biodiversity And Conservation",
-                                "Island Conservation And Restoration",
-                                "Quaternary Environmental Change",
-                                "Disturbance Ecology",
-                                "Natural Resources Management",
-                                "Peatland Restoration Ecology"
-                            ]
-                        },
-                        {
                             "name": "Dr Mike Fowler",
                             "url": "https://www.swansea.ac.uk/staff/science/biosciences/m.s.fowler/",
                             "expertise": [
@@ -776,6 +762,20 @@
                             ]
                         },
                         {
+                            "name": "Dr Cynthia Froyd",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/c.froyd",
+                            "expertise": [
+                                "Long-term Ecology",
+                                "Forest Ecology",
+                                "Biodiversity And Conservation",
+                                "Island Conservation And Restoration",
+                                "Quaternary Environmental Change",
+                                "Disturbance Ecology",
+                                "Natural Resources Management",
+                                "Peatland Restoration Ecology"
+                            ]
+                        },
+                        {
                             "name": "Dr Ines Fuertbauer",
                             "url": "https://www.swansea.ac.uk/staff/science/biosciences/i.fuertbauer",
                             "expertise": [
@@ -784,19 +784,6 @@
                                 "Non-invasive Hormone Analysis",
                                 "Reproductive Physiology",
                                 "Stress Physiology"
-                            ]
-                        },
-                        {
-                            "name": "Dr Wendy Harris",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/w.e.harris/",
-                            "expertise": [
-                                "Entomology",
-                                "Applied Ecology",
-                                "Plant-insect Relationships",
-                                "Ecological Monitoring",
-                                "Bat Ecology",
-                                "Conservation",
-                                "Citizen Science And Outreach"
                             ]
                         },
                         {
@@ -814,28 +801,16 @@
                             ]
                         },
                         {
-                            "name": "Dr Christopher Lowe",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/c.d.lowe",
+                            "name": "Dr Wendy Harris",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/w.e.harris/",
                             "expertise": [
-                                "Environmental Remote Sensing Through Light And Sound",
-                                "Bio-optical Oceanography",
-                                "Plankton Dynamics",
-                                "Modelling Human/environment Interactions.",
-                                "Environmental Management And Assessment.",
-                                "Eu And Uk Environmental Policy And Legislation"
-                            ]
-                        },
-                        {
-                            "name": "Dr Miguel Lurgi Rivera",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/lurgimiguel/",
-                            "expertise": [
-                                "Ecological Networks",
-                                "Community Ecology",
-                                "Food Web Theory",
-                                "Network Biogeography",
-                                "Microbiome",
-                                "Theoretical Ecology",
-                                "Global Change (invasions Habitat Loss Warming)"
+                                "Entomology",
+                                "Applied Ecology",
+                                "Plant-insect Relationships",
+                                "Ecological Monitoring",
+                                "Bat Ecology",
+                                "Conservation",
+                                "Citizen Science And Outreach"
                             ]
                         },
                         {
@@ -852,6 +827,18 @@
                             ]
                         },
                         {
+                            "name": "Dr Christopher Lowe",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/c.d.lowe",
+                            "expertise": [
+                                "Environmental Remote Sensing Through Light And Sound",
+                                "Bio-optical Oceanography",
+                                "Plankton Dynamics",
+                                "Modelling Human/environment Interactions.",
+                                "Environmental Management And Assessment.",
+                                "Eu And Uk Environmental Policy And Legislation"
+                            ]
+                        },
+                        {
                             "name": "Dr Andrew King",
                             "url": "https://www.swansea.ac.uk/staff/science/biosciences/a.j.king/",
                             "expertise": [
@@ -859,6 +846,19 @@
                                 "Behavioural Ecology",
                                 "Collective Behaviour",
                                 "Socioecology"
+                            ]
+                        },
+                        {
+                            "name": "Dr Miguel Lurgi Rivera",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/lurgimiguel/",
+                            "expertise": [
+                                "Ecological Networks",
+                                "Community Ecology",
+                                "Food Web Theory",
+                                "Network Biogeography",
+                                "Microbiome",
+                                "Theoretical Ecology",
+                                "Global Change (invasions Habitat Loss Warming)"
                             ]
                         },
                         {
@@ -876,6 +876,20 @@
                             ]
                         },
                         {
+                            "name": "Dr Cristina Santin Nuno",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/santinc",
+                            "expertise": [
+                                "Wildfires",
+                                "Prescribed Fires",
+                                "Carbon Cycle",
+                                "Pyrogenic Carbon",
+                                "Fuels",
+                                "Water Quality",
+                                "Social Perceptions Of Fire",
+                                "Soils"
+                            ]
+                        },
+                        {
                             "name": "Dr Ed Pope",
                             "url": "https://www.swansea.ac.uk/staff/science/biosciences/e.c.pope",
                             "expertise": [
@@ -884,6 +898,17 @@
                                 "Marine Ecology",
                                 "Ocean Acidification",
                                 "Ecophysiology"
+                            ]
+                        },
+                        {
+                            "name": "Professor Emily Shepard",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/e.l.c.shepard/",
+                            "expertise": [
+                                "Movement Ecology",
+                                "Biotelemetry",
+                                "Flight",
+                                "Aeroecology",
+                                "Energetics"
                             ]
                         },
                         {
@@ -900,20 +925,6 @@
                             ]
                         },
                         {
-                            "name": "Dr Cristina Santin Nuno",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/santinc",
-                            "expertise": [
-                                "Wildfires",
-                                "Prescribed Fires",
-                                "Carbon Cycle",
-                                "Pyrogenic Carbon",
-                                "Fuels",
-                                "Water Quality",
-                                "Social Perceptions Of Fire",
-                                "Soils"
-                            ]
-                        },
-                        {
                             "name": "Dr Kayleigh Rose",
                             "url": "https://www.swansea.ac.uk/staff/science/biosciences/rosekar",
                             "expertise": [
@@ -924,14 +935,13 @@
                             ]
                         },
                         {
-                            "name": "Professor Emily Shepard",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/e.l.c.shepard/",
+                            "name": "Professor Kam Tang",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/k.w.tang/",
                             "expertise": [
-                                "Movement Ecology",
-                                "Biotelemetry",
-                                "Flight",
-                                "Aeroecology",
-                                "Energetics"
+                                "Plankton Ecology",
+                                "Microbial Ecology",
+                                "Pelagic Processes",
+                                "Biogeochemistry"
                             ]
                         },
                         {
@@ -959,13 +969,17 @@
                             ]
                         },
                         {
-                            "name": "Professor Kam Tang",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/k.w.tang/",
+                            "name": "Dr Richard Unsworth",
+                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/r.k.f.unsworth/",
                             "expertise": [
-                                "Plankton Ecology",
-                                "Microbial Ecology",
-                                "Pelagic Processes",
-                                "Biogeochemistry"
+                                "Marine Ecology",
+                                "Seagrass Biology",
+                                "Fisheries Ecology",
+                                "Fish Biology",
+                                "Social-ecological Systems",
+                                "Resilience",
+                                "Marine Biology",
+                                "Food Security"
                             ]
                         },
                         {
@@ -978,20 +992,6 @@
                                 "Ecohealth And One Health",
                                 "Biodiversity",
                                 "Conservation Biology"
-                            ]
-                        },
-                        {
-                            "name": "Dr Richard Unsworth",
-                            "url": "https://www.swansea.ac.uk/staff/science/biosciences/r.k.f.unsworth/",
-                            "expertise": [
-                                "Marine Ecology",
-                                "Seagrass Biology",
-                                "Fisheries Ecology",
-                                "Fish Biology",
-                                "Social-ecological Systems",
-                                "Resilience",
-                                "Marine Biology",
-                                "Food Security"
                             ]
                         }
                     ]
@@ -1012,15 +1012,13 @@
                             ]
                         },
                         {
-                            "name": "Dr Mariolino Carta",
-                            "url": "https://www.swansea.ac.uk/staff/science/chemistry/cartam/",
+                            "name": "Professor Gil Alexandrowicz",
+                            "url": "https://www.swansea.ac.uk/staff/science/chemistry/alexandrowiczgn/",
                             "expertise": [
-                                "Organic Chemistry",
-                                "Material Chemistry",
-                                "Polymers Of Intrinsic Microporosity (pims)",
-                                "Gas Separation",
-                                "Mixed Matrix Membranes (mmms)",
-                                "Heterogeneous Catalysis"
+                                "Atomic And Molecular Beams",
+                                "Surface Dynamics",
+                                "Surface Diffusion",
+                                "Molecule-surface Collisions"
                             ]
                         },
                         {
@@ -1031,6 +1029,18 @@
                                 "Spin Physics",
                                 "Optoelectronics",
                                 "Spintronics"
+                            ]
+                        },
+                        {
+                            "name": "Dr Mariolino Carta",
+                            "url": "https://www.swansea.ac.uk/staff/science/chemistry/cartam/",
+                            "expertise": [
+                                "Organic Chemistry",
+                                "Material Chemistry",
+                                "Polymers Of Intrinsic Microporosity (pims)",
+                                "Gas Separation",
+                                "Mixed Matrix Membranes (mmms)",
+                                "Heterogeneous Catalysis"
                             ]
                         },
                         {
@@ -1062,16 +1072,6 @@
                             ]
                         },
                         {
-                            "name": "Professor Gil Alexandrowicz",
-                            "url": "https://www.swansea.ac.uk/staff/science/chemistry/alexandrowiczgn/",
-                            "expertise": [
-                                "Atomic And Molecular Beams",
-                                "Surface Dynamics",
-                                "Surface Diffusion",
-                                "Molecule-surface Collisions"
-                            ]
-                        },
-                        {
                             "name": "Dr Moritz Kuehnel",
                             "url": "https://www.swansea.ac.uk/staff/science/chemistry/kuehnelmf/",
                             "expertise": [
@@ -1095,17 +1095,6 @@
                             ]
                         },
                         {
-                            "name": "Dr Joel Loveridge",
-                            "url": "https://www.swansea.ac.uk/staff/science/chemistry/loveridgeej/",
-                            "expertise": [
-                                "Natural Products Biosynthesis",
-                                "Synthesis Of Antimicrobial Compounds",
-                                "Enzymology",
-                                "Nmr Spectroscopy",
-                                "Public Engagement And Outreach"
-                            ]
-                        },
-                        {
                             "name": "Dr Francisco Martin-Martinez",
                             "url": "https://www.swansea.ac.uk/staff/science/chemistry/francisco-martin-martinez/",
                             "expertise": [
@@ -1119,6 +1108,17 @@
                                 "Bioasphalt Design",
                                 "Lignin",
                                 "Nanocellulose"
+                            ]
+                        },
+                        {
+                            "name": "Dr Joel Loveridge",
+                            "url": "https://www.swansea.ac.uk/staff/science/chemistry/loveridgeej/",
+                            "expertise": [
+                                "Natural Products Biosynthesis",
+                                "Synthesis Of Antimicrobial Compounds",
+                                "Enzymology",
+                                "Nmr Spectroscopy",
+                                "Public Engagement And Outreach"
                             ]
                         },
                         {
@@ -1199,21 +1199,21 @@
                             ]
                         },
                         {
-                            "name": "Dr Arno Pauly",
-                            "url": "https://www.swansea.ac.uk/staff/science/computer-science/paulya/",
-                            "expertise": [
-                                "Computable Analysis",
-                                "Effective Descriptive Set Theory",
-                                "Game Theory And Cs"
-                            ]
-                        },
-                        {
                             "name": "Dr Jingjing Deng",
                             "url": "https://www.swansea.ac.uk/staff/science/computer-science/dengj/",
                             "expertise": [
                                 "Machine Learning",
                                 "Computer Vision And Biomedical Image Analysis",
                                 "Natural And Machine Language Processing"
+                            ]
+                        },
+                        {
+                            "name": "Dr Arno Pauly",
+                            "url": "https://www.swansea.ac.uk/staff/science/computer-science/paulya/",
+                            "expertise": [
+                                "Computable Analysis",
+                                "Effective Descriptive Set Theory",
+                                "Game Theory And Cs"
                             ]
                         },
                         {
@@ -1309,29 +1309,6 @@
                             ]
                         },
                         {
-                            "name": "Dr Anton Setzer",
-                            "url": "https://www.swansea.ac.uk/staff/science/computer-science/a.g.setzer/",
-                            "expertise": [
-                                "Interactive Theorem Proving",
-                                "Type Theory",
-                                "Martin-loef Type Theory",
-                                "Coinduction",
-                                "Proof Theory",
-                                "Dependently Typed Programming",
-                                "Ordinals",
-                                "Pattern Matching"
-                            ]
-                        },
-                        {
-                            "name": "Dr Deepak Sahoo",
-                            "url": "https://www.swansea.ac.uk/staff/science/computer-science/sahood/",
-                            "expertise": [
-                                "Human-computer Interaction",
-                                "Internet Of Things",
-                                "Ubiquitous Computing"
-                            ]
-                        },
-                        {
                             "name": "Dr Matthew Roach",
                             "url": "https://www.swansea.ac.uk/staff/science/computer-science/m.j.roach/",
                             "expertise": [
@@ -1359,15 +1336,26 @@
                             ]
                         },
                         {
-                            "name": "Dr Gary Tam",
-                            "url": "https://www.swansea.ac.uk/staff/science/computer-science/k.l.tam/",
+                            "name": "Dr Anton Setzer",
+                            "url": "https://www.swansea.ac.uk/staff/science/computer-science/a.g.setzer/",
                             "expertise": [
-                                "Visual Analytics",
-                                "Machine Learning",
-                                "Digital Geometry Processing",
-                                "Pattern Recognition And Vision",
-                                "Multi-dimensional Data Analysis",
-                                "Information Retrieval And Indexing"
+                                "Interactive Theorem Proving",
+                                "Type Theory",
+                                "Martin-loef Type Theory",
+                                "Coinduction",
+                                "Proof Theory",
+                                "Dependently Typed Programming",
+                                "Ordinals",
+                                "Pattern Matching"
+                            ]
+                        },
+                        {
+                            "name": "Dr Deepak Sahoo",
+                            "url": "https://www.swansea.ac.uk/staff/science/computer-science/sahood/",
+                            "expertise": [
+                                "Human-computer Interaction",
+                                "Internet Of Things",
+                                "Ubiquitous Computing"
                             ]
                         },
                         {
@@ -1392,6 +1380,18 @@
                             ]
                         },
                         {
+                            "name": "Dr Gary Tam",
+                            "url": "https://www.swansea.ac.uk/staff/science/computer-science/k.l.tam/",
+                            "expertise": [
+                                "Visual Analytics",
+                                "Machine Learning",
+                                "Digital Geometry Processing",
+                                "Pattern Recognition And Vision",
+                                "Multi-dimensional Data Analysis",
+                                "Information Retrieval And Indexing"
+                            ]
+                        },
+                        {
                             "name": "Professor Xianghua Xie",
                             "url": "https://www.swansea.ac.uk/staff/science/computer-science/x.xie/",
                             "expertise": [
@@ -1412,12 +1412,22 @@
                     "name": "Geography",
                     "staff": [
                         {
-                            "name": "Dr Suzanne Bevan",
-                            "url": "https://www.swansea.ac.uk/staff/science/geography/s.l.bevan/",
+                            "name": "Dr Paul Albert",
+                            "url": "https://www.swansea.ac.uk/staff/science/geography/albert-p-g/",
                             "expertise": [
-                                "Earth Observation",
-                                "Glaciology",
-                                "Geographical Information Systems"
+                                "Tephrochronology",
+                                "Volcanology",
+                                "Geochemistry",
+                                "Quaternary Climate Variability"
+                            ]
+                        },
+                        {
+                            "name": "Dr Paul Alton",
+                            "url": "https://www.swansea.ac.uk/staff/science/geography/p.alton/",
+                            "expertise": [
+                                "Environmental Modelling And Radiative Transfer In Vegetation Canopies",
+                                "Global Simulations Of Carbon Water And Energy Exchange Between The Landsurface And The Atmosphere",
+                                "Parameter Retrieval Of Biophysical Properties Using Optimisation Methods"
                             ]
                         },
                         {
@@ -1433,36 +1443,12 @@
                             ]
                         },
                         {
-                            "name": "Dr Paul Alton",
-                            "url": "https://www.swansea.ac.uk/staff/science/geography/p.alton/",
+                            "name": "Dr Suzanne Bevan",
+                            "url": "https://www.swansea.ac.uk/staff/science/geography/s.l.bevan/",
                             "expertise": [
-                                "Environmental Modelling And Radiative Transfer In Vegetation Canopies",
-                                "Global Simulations Of Carbon Water And Energy Exchange Between The Landsurface And The Atmosphere",
-                                "Parameter Retrieval Of Biophysical Properties Using Optimisation Methods"
-                            ]
-                        },
-                        {
-                            "name": "Dr Paul Albert",
-                            "url": "https://www.swansea.ac.uk/staff/science/geography/albert-p-g/",
-                            "expertise": [
-                                "Tephrochronology",
-                                "Volcanology",
-                                "Geochemistry",
-                                "Quaternary Climate Variability"
-                            ]
-                        },
-                        {
-                            "name": "Dr Angharad Closs Stephens",
-                            "url": "https://www.swansea.ac.uk/staff/science/geography/stephens-a-c/",
-                            "expertise": [
-                                "Critical Approaches To The Study Of Nationalism",
-                                "Performance Art And Politics",
-                                "Critical Security Studies",
-                                "Critical Theories",
-                                "Creative And Artistic Methods",
-                                "Cultural And Political Geographies",
-                                "Cities And Citizenship",
-                                "Affect Atmosphere"
+                                "Earth Observation",
+                                "Glaciology",
+                                "Geographical Information Systems"
                             ]
                         },
                         {
@@ -1480,14 +1466,13 @@
                             ]
                         },
                         {
-                            "name": "Dr Stephen Cornford",
-                            "url": "https://www.swansea.ac.uk/staff/science/geography/cornfordsl/",
+                            "name": "Professor Siwan Davies",
+                            "url": "https://www.swansea.ac.uk/staff/science/geography/siwan.davies/",
                             "expertise": [
-                                "Ice Flow Modelling",
-                                "Antarctica",
-                                "Data Assimilation",
-                                "Adaptive Mesh Methods",
-                                "High Performance Computing"
+                                "Tephrochronology",
+                                "Quaternary Science And Palaeoenvironmental Change",
+                                "Abrupt And Rapid Climatic Changes",
+                                "Geochronology"
                             ]
                         },
                         {
@@ -1505,13 +1490,28 @@
                             ]
                         },
                         {
-                            "name": "Professor Siwan Davies",
-                            "url": "https://www.swansea.ac.uk/staff/science/geography/siwan.davies/",
+                            "name": "Dr Stephen Cornford",
+                            "url": "https://www.swansea.ac.uk/staff/science/geography/cornfordsl/",
                             "expertise": [
-                                "Tephrochronology",
-                                "Quaternary Science And Palaeoenvironmental Change",
-                                "Abrupt And Rapid Climatic Changes",
-                                "Geochronology"
+                                "Ice Flow Modelling",
+                                "Antarctica",
+                                "Data Assimilation",
+                                "Adaptive Mesh Methods",
+                                "High Performance Computing"
+                            ]
+                        },
+                        {
+                            "name": "Dr Angharad Closs Stephens",
+                            "url": "https://www.swansea.ac.uk/staff/science/geography/stephens-a-c/",
+                            "expertise": [
+                                "Critical Approaches To The Study Of Nationalism",
+                                "Performance Art And Politics",
+                                "Critical Security Studies",
+                                "Critical Theories",
+                                "Creative And Artistic Methods",
+                                "Cultural And Political Geographies",
+                                "Cities And Citizenship",
+                                "Affect Atmosphere"
                             ]
                         },
                         {
@@ -1576,15 +1576,6 @@
                             ]
                         },
                         {
-                            "name": "Dr Glenn Jones",
-                            "url": "https://www.swansea.ac.uk/staff/science/geography/jonesga/",
-                            "expertise": [
-                                "Seismology",
-                                "Inverse Problems",
-                                "Geophysics"
-                            ]
-                        },
-                        {
                             "name": "Dr John Hiemstra",
                             "url": "https://www.swansea.ac.uk/staff/science/geography/j.hiemstra/",
                             "expertise": [
@@ -1595,6 +1586,28 @@
                                 "Palaeogeography",
                                 "Climate Reconstruction",
                                 "Micromorphology"
+                            ]
+                        },
+                        {
+                            "name": "Dr Glenn Jones",
+                            "url": "https://www.swansea.ac.uk/staff/science/geography/jonesga/",
+                            "expertise": [
+                                "Seismology",
+                                "Inverse Problems",
+                                "Geophysics"
+                            ]
+                        },
+                        {
+                            "name": "Dr Joanne Maddern",
+                            "url": "https://www.swansea.ac.uk/staff/science/geography/maddernjf/",
+                            "expertise": [
+                                "Migration And Identity",
+                                "Subjectivity And Space",
+                                "Heritage And Spectrality",
+                                "American National Identities",
+                                "History And Memory",
+                                "Academic Development In He",
+                                "Critical Pedagogies"
                             ]
                         },
                         {
@@ -1609,19 +1622,6 @@
                                 "Biogeophysics",
                                 "Subsurface Hydrology",
                                 "Aquifer Testing"
-                            ]
-                        },
-                        {
-                            "name": "Dr Joanne Maddern",
-                            "url": "https://www.swansea.ac.uk/staff/science/geography/maddernjf/",
-                            "expertise": [
-                                "Migration And Identity",
-                                "Subjectivity And Space",
-                                "Heritage And Spectrality",
-                                "American National Identities",
-                                "History And Memory",
-                                "Academic Development In He",
-                                "Critical Pedagogies"
                             ]
                         },
                         {
@@ -1688,13 +1688,11 @@
                             ]
                         },
                         {
-                            "name": "Dr Katie Preece",
-                            "url": "https://www.swansea.ac.uk/staff/science/geography/preecekj/",
+                            "name": "Professor Peter North",
+                            "url": "https://www.swansea.ac.uk/staff/science/geography/p.r.j.north/",
                             "expertise": [
-                                "Magmatic And Volcanic Processes",
-                                "Volcanic Hazards",
-                                "Geochronology",
-                                "Geochemistry"
+                                "Satellite Remote Sensing Of Land And Atmosphere",
+                                "Modelling Of Land Surface Interation With The Atmosphere"
                             ]
                         },
                         {
@@ -1711,14 +1709,6 @@
                             ]
                         },
                         {
-                            "name": "Professor Peter North",
-                            "url": "https://www.swansea.ac.uk/staff/science/geography/p.r.j.north/",
-                            "expertise": [
-                                "Satellite Remote Sensing Of Land And Atmosphere",
-                                "Modelling Of Land Surface Interation With The Atmosphere"
-                            ]
-                        },
-                        {
                             "name": "Dr Kevin Rees",
                             "url": "https://www.swansea.ac.uk/staff/science/geography/k.g.rees/",
                             "expertise": [
@@ -1727,6 +1717,16 @@
                                 "Industrial Clusters And Institutional Collaboration",
                                 "Economies Of Identity Esp. In Creative Industries",
                                 "Intellectual Property Esp. Patent Records"
+                            ]
+                        },
+                        {
+                            "name": "Dr Katie Preece",
+                            "url": "https://www.swansea.ac.uk/staff/science/geography/preecekj/",
+                            "expertise": [
+                                "Magmatic And Volcanic Processes",
+                                "Volcanic Hazards",
+                                "Geochronology",
+                                "Geochemistry"
                             ]
                         },
                         {
@@ -1769,6 +1769,20 @@
                             ]
                         },
                         {
+                            "name": "Professor Sergei Shubin",
+                            "url": "https://www.swansea.ac.uk/staff/science/geography/s.v.shubin/",
+                            "expertise": [
+                                "Inequality: Poverty And Social Exclusion",
+                                "Critical Geographies Of Development",
+                                "Moving Geographies: Mobilities And Migrations",
+                                "Care Relation And Community",
+                                "Time And Temporality",
+                                "Post-socialism And Russia",
+                                "Rural Geographies",
+                                "Health “madness”"
+                            ]
+                        },
+                        {
                             "name": "Dr Richard Smith",
                             "url": "https://www.swansea.ac.uk/staff/science/geography/r.g.smith/",
                             "expertise": [
@@ -1781,20 +1795,6 @@
                                 "Urban Acupuncture",
                                 "Urban Photography",
                                 "Lego And Urban Design"
-                            ]
-                        },
-                        {
-                            "name": "Professor Sergei Shubin",
-                            "url": "https://www.swansea.ac.uk/staff/science/geography/s.v.shubin/",
-                            "expertise": [
-                                "Inequality: Poverty And Social Exclusion",
-                                "Critical Geographies Of Development",
-                                "Moving Geographies: Mobilities And Migrations",
-                                "Care Relation And Community",
-                                "Time And Temporality",
-                                "Post-socialism And Russia",
-                                "Rural Geographies",
-                                "Health “madness”"
                             ]
                         },
                         {
@@ -1834,6 +1834,33 @@
                     "name": "Mathematics",
                     "staff": [
                         {
+                            "name": "Dr Edwin Beggs",
+                            "url": "https://www.swansea.ac.uk/staff/science/maths/e.j.beggs/",
+                            "expertise": [
+                                "Algebra",
+                                "Differential Geometry",
+                                "Noncommutative Geometry",
+                                "Solitons And Integrable Systems",
+                                "Theoretical Physics",
+                                "Computability Of Physical Systems",
+                                "Theory Of Measurement"
+                            ]
+                        },
+                        {
+                            "name": "Professor Tomasz Brzezinski",
+                            "url": "https://www.swansea.ac.uk/staff/science/maths/t.brzezinski/",
+                            "expertise": [
+                                "Algebra",
+                                "Noncommutative Geometry",
+                                "Category Theory",
+                                "Hopf Algebras",
+                                "Corings And Comodules",
+                                "Ring Theory",
+                                "Module Theory",
+                                "Algebraic Structures"
+                            ]
+                        },
+                        {
                             "name": "Professor Elaine Crooks",
                             "url": "https://www.swansea.ac.uk/staff/science/maths/e.c.m.crooks/",
                             "expertise": [
@@ -1856,49 +1883,12 @@
                             ]
                         },
                         {
-                            "name": "Professor Tomasz Brzezinski",
-                            "url": "https://www.swansea.ac.uk/staff/science/maths/t.brzezinski/",
-                            "expertise": [
-                                "Algebra",
-                                "Noncommutative Geometry",
-                                "Category Theory",
-                                "Hopf Algebras",
-                                "Corings And Comodules",
-                                "Ring Theory",
-                                "Module Theory",
-                                "Algebraic Structures"
-                            ]
-                        },
-                        {
-                            "name": "Dr Edwin Beggs",
-                            "url": "https://www.swansea.ac.uk/staff/science/maths/e.j.beggs/",
-                            "expertise": [
-                                "Algebra",
-                                "Differential Geometry",
-                                "Noncommutative Geometry",
-                                "Solitons And Integrable Systems",
-                                "Theoretical Physics",
-                                "Computability Of Physical Systems",
-                                "Theory Of Measurement"
-                            ]
-                        },
-                        {
                             "name": "Professor Ian Davies",
                             "url": "https://www.swansea.ac.uk/staff/science/maths/i.m.davies/",
                             "expertise": [
                                 "Functional Integration",
                                 "Asymptotics",
                                 "Stochastic Analysis"
-                            ]
-                        },
-                        {
-                            "name": "Professor Jeffrey Giansiracusa",
-                            "url": "https://www.swansea.ac.uk/staff/science/maths/j.h.giansiracusa/",
-                            "expertise": [
-                                "Topological Data Analysis",
-                                "Homotopy Theory",
-                                "Moduli Spaces",
-                                "Tropical Geometry"
                             ]
                         },
                         {
@@ -1925,32 +1915,22 @@
                             ]
                         },
                         {
+                            "name": "Professor Jeffrey Giansiracusa",
+                            "url": "https://www.swansea.ac.uk/staff/science/maths/j.h.giansiracusa/",
+                            "expertise": [
+                                "Topological Data Analysis",
+                                "Homotopy Theory",
+                                "Moduli Spaces",
+                                "Tropical Geometry"
+                            ]
+                        },
+                        {
                             "name": "Dr John Harvey",
                             "url": "https://www.swansea.ac.uk/staff/science/maths/harveyjm/",
                             "expertise": [
                                 "Geometry",
                                 "Topology",
                                 "Topological Data Analysis"
-                            ]
-                        },
-                        {
-                            "name": "Professor Eugene Lytvynov",
-                            "url": "https://www.swansea.ac.uk/staff/science/maths/e.lytvynov/",
-                            "expertise": [
-                                "Infinite Dimensional Analysis",
-                                "Point Processes And Random Measures",
-                                "Noncommutative Probability",
-                                "Umbral Calculus"
-                            ]
-                        },
-                        {
-                            "name": "Dr Andrew Neate",
-                            "url": "https://www.swansea.ac.uk/staff/science/maths/a.d.neate/",
-                            "expertise": [
-                                "Stochastic Analysis",
-                                "Stochastic Mechanics",
-                                "Quantum Mechanics",
-                                "Mathematics Education"
                             ]
                         },
                         {
@@ -1984,15 +1964,13 @@
                             ]
                         },
                         {
-                            "name": "Dr Gibin Powathil",
-                            "url": "https://www.swansea.ac.uk/staff/science/maths/g.g.powathil/",
+                            "name": "Professor Eugene Lytvynov",
+                            "url": "https://www.swansea.ac.uk/staff/science/maths/e.lytvynov/",
                             "expertise": [
-                                "Mathematical Biology",
-                                "Mathematical Oncology",
-                                "Multiscale Cancer Modelling",
-                                "Modelling Anticancer Therapies",
-                                "Applications Of Imaging Techniques In Cancer Modelling",
-                                "Computational Mathematics"
+                                "Infinite Dimensional Analysis",
+                                "Point Processes And Random Measures",
+                                "Noncommutative Probability",
+                                "Umbral Calculus"
                             ]
                         },
                         {
@@ -2007,6 +1985,28 @@
                                 "Choquard Equations",
                                 "Thomas-fermi Type Models",
                                 "Mathematical Analysis Of Graphene"
+                            ]
+                        },
+                        {
+                            "name": "Dr Andrew Neate",
+                            "url": "https://www.swansea.ac.uk/staff/science/maths/a.d.neate/",
+                            "expertise": [
+                                "Stochastic Analysis",
+                                "Stochastic Mechanics",
+                                "Quantum Mechanics",
+                                "Mathematics Education"
+                            ]
+                        },
+                        {
+                            "name": "Dr Gibin Powathil",
+                            "url": "https://www.swansea.ac.uk/staff/science/maths/g.g.powathil/",
+                            "expertise": [
+                                "Mathematical Biology",
+                                "Mathematical Oncology",
+                                "Multiscale Cancer Modelling",
+                                "Modelling Anticancer Therapies",
+                                "Applications Of Imaging Techniques In Cancer Modelling",
+                                "Computational Mathematics"
                             ]
                         },
                         {
@@ -2030,16 +2030,6 @@
                             ]
                         },
                         {
-                            "name": "Professor Chenggui Yuan",
-                            "url": "https://www.swansea.ac.uk/staff/science/maths/c.yuan/",
-                            "expertise": [
-                                "Stochastic Analysis",
-                                "Population Dynamics",
-                                "Financial Mathematics",
-                                "Stochastic Control"
-                            ]
-                        },
-                        {
                             "name": "Professor Jiang-lun Wu",
                             "url": "https://www.swansea.ac.uk/staff/science/maths/j.l.wu/",
                             "expertise": [
@@ -2051,6 +2041,16 @@
                                 "Mathematical Physics And Statistical Mechanics",
                                 "Nonstandard Analysis"
                             ]
+                        },
+                        {
+                            "name": "Professor Chenggui Yuan",
+                            "url": "https://www.swansea.ac.uk/staff/science/maths/c.yuan/",
+                            "expertise": [
+                                "Stochastic Analysis",
+                                "Population Dynamics",
+                                "Financial Mathematics",
+                                "Stochastic Control"
+                            ]
                         }
                     ]
                 },
@@ -2058,36 +2058,6 @@
                     "key": "physics",
                     "name": "Physics",
                     "staff": [
-                        {
-                            "name": "Dr Ardalan Armin",
-                            "url": "https://www.swansea.ac.uk/staff/science/physics/armina/",
-                            "expertise": [
-                                "Physics",
-                                "Optoelectronics",
-                                "Physical Chemistry"
-                            ]
-                        },
-                        {
-                            "name": "Professor Gert Aarts",
-                            "url": "https://www.swansea.ac.uk/staff/science/physics/g.aarts/",
-                            "expertise": [
-                                "Qcd Under Extreme Conditions",
-                                "Sign Problem In Strongly Interacting Matter",
-                                "Quantum Field Theory",
-                                "Advanced Computing And Data Analysis"
-                            ]
-                        },
-                        {
-                            "name": "Professor Chris Allton",
-                            "url": "https://www.swansea.ac.uk/staff/science/physics/c.r.allton/",
-                            "expertise": [
-                                "Theoretical Particle Physics",
-                                "Lattice Gauge Theory",
-                                "High Performance Computing",
-                                "Qcd At Non-zero Temperature And Density",
-                                "Public Engagement"
-                            ]
-                        },
                         {
                             "name": "Professor Peter Dunstan",
                             "url": "https://www.swansea.ac.uk/staff/science/physics/p.r.dunstan/",
@@ -2103,6 +2073,15 @@
                             ]
                         },
                         {
+                            "name": "Dr Ardalan Armin",
+                            "url": "https://www.swansea.ac.uk/staff/science/physics/armina/",
+                            "expertise": [
+                                "Physics",
+                                "Optoelectronics",
+                                "Physical Chemistry"
+                            ]
+                        },
+                        {
                             "name": "Professor Adi Armoni",
                             "url": "https://www.swansea.ac.uk/staff/science/physics/a.armoni/",
                             "expertise": [
@@ -2113,13 +2092,14 @@
                             ]
                         },
                         {
-                            "name": "Dr William Bryan",
-                            "url": "https://www.swansea.ac.uk/staff/science/physics/w.a.bryan/",
+                            "name": "Professor Chris Allton",
+                            "url": "https://www.swansea.ac.uk/staff/science/physics/c.r.allton/",
                             "expertise": [
-                                "Femtosecond Electron Microscopy And Diffraction From Gas Liquid And Solid Phases",
-                                "Low-energy Electron Point-projection Microscopy",
-                                "Ultrafast Electron Emission From Nanoscale Metal Tips",
-                                "Femtosecond Xuv-nir And Uv-nir Pump-probe Spectroscopy In Gas Ph"
+                                "Theoretical Particle Physics",
+                                "Lattice Gauge Theory",
+                                "High Performance Computing",
+                                "Qcd At Non-zero Temperature And Density",
+                                "Public Engagement"
                             ]
                         },
                         {
@@ -2132,6 +2112,26 @@
                                 "Quantum Measurement And Control",
                                 "Single-photon",
                                 "Two-photon Interferometry"
+                            ]
+                        },
+                        {
+                            "name": "Professor Gert Aarts",
+                            "url": "https://www.swansea.ac.uk/staff/science/physics/g.aarts/",
+                            "expertise": [
+                                "Qcd Under Extreme Conditions",
+                                "Sign Problem In Strongly Interacting Matter",
+                                "Quantum Field Theory",
+                                "Advanced Computing And Data Analysis"
+                            ]
+                        },
+                        {
+                            "name": "Dr William Bryan",
+                            "url": "https://www.swansea.ac.uk/staff/science/physics/w.a.bryan/",
+                            "expertise": [
+                                "Femtosecond Electron Microscopy And Diffraction From Gas Liquid And Solid Phases",
+                                "Low-energy Electron Point-projection Microscopy",
+                                "Ultrafast Electron Emission From Nanoscale Metal Tips",
+                                "Femtosecond Xuv-nir And Uv-nir Pump-probe Spectroscopy In Gas Ph"
                             ]
                         },
                         {
@@ -2169,15 +2169,6 @@
                             ]
                         },
                         {
-                            "name": "Professor Carlos Nunez",
-                            "url": "https://www.swansea.ac.uk/staff/science/physics/c.nunez/",
-                            "expertise": [
-                                "Theoretical Physics",
-                                "String Theory And Quantum Field Theory",
-                                "Some Aspects Of Cosmology."
-                            ]
-                        },
-                        {
                             "name": "Professor Niels Madsen",
                             "url": "https://www.swansea.ac.uk/staff/science/physics/n.madsen/",
                             "expertise": [
@@ -2201,16 +2192,26 @@
                             ]
                         },
                         {
-                            "name": "Professor David Ritchie",
-                            "url": "https://www.swansea.ac.uk/staff/science/physics/ritchieda/",
+                            "name": "Professor Carlos Nunez",
+                            "url": "https://www.swansea.ac.uk/staff/science/physics/c.nunez/",
                             "expertise": [
-                                "Molecular Beam Epitaxy (mbe)",
-                                "Quantum Transport In Low-dimensional Structures",
-                                "Terahertz Quantum Cascade Lasers",
-                                "Terahertz Nanoscopy",
-                                "The Interaction Of Thz Radiation With Quantum Devices",
-                                "Self-assembled Inas Quantum Dots",
-                                "Single And Entangled Photon Sources"
+                                "Theoretical Physics",
+                                "String Theory And Quantum Field Theory",
+                                "Some Aspects Of Cosmology."
+                            ]
+                        },
+                        {
+                            "name": "Professor Paul Meredith",
+                            "url": "https://www.swansea.ac.uk/staff/science/physics/meredithp/",
+                            "expertise": [
+                                "Solar Energy Science Technology",
+                                "Bioelectronics",
+                                "Organic And Perovskite Semiconductors",
+                                "Integrative Semiconductor Materials",
+                                "Photodetectors And Optoelectronics",
+                                "Electro-optical Physics",
+                                "Renewable Energy Policy",
+                                "Innovation Practises"
                             ]
                         },
                         {
@@ -2230,17 +2231,16 @@
                             ]
                         },
                         {
-                            "name": "Professor Paul Meredith",
-                            "url": "https://www.swansea.ac.uk/staff/science/physics/meredithp/",
+                            "name": "Professor David Ritchie",
+                            "url": "https://www.swansea.ac.uk/staff/science/physics/ritchieda/",
                             "expertise": [
-                                "Solar Energy Science Technology",
-                                "Bioelectronics",
-                                "Organic And Perovskite Semiconductors",
-                                "Integrative Semiconductor Materials",
-                                "Photodetectors And Optoelectronics",
-                                "Electro-optical Physics",
-                                "Renewable Energy Policy",
-                                "Innovation Practises"
+                                "Molecular Beam Epitaxy (mbe)",
+                                "Quantum Transport In Low-dimensional Structures",
+                                "Terahertz Quantum Cascade Lasers",
+                                "Terahertz Nanoscopy",
+                                "The Interaction Of Thz Radiation With Quantum Devices",
+                                "Self-assembled Inas Quantum Dots",
+                                "Single And Entangled Photon Sources"
                             ]
                         },
                         {
@@ -2265,6 +2265,13 @@
                             ]
                         },
                         {
+                            "name": "Dr Gianmassimo Tasinato",
+                            "url": "https://www.swansea.ac.uk/staff/science/physics/g.tasinato/",
+                            "expertise": [
+                                "Theoretical Cosmology"
+                            ]
+                        },
+                        {
                             "name": "Dr Daniel Thompson",
                             "url": "https://www.swansea.ac.uk/staff/science/physics/thompsondc/",
                             "expertise": [
@@ -2273,13 +2280,6 @@
                                 "Quantum Field Theory",
                                 "Integrable Models",
                                 "Dualities And Geometry"
-                            ]
-                        },
-                        {
-                            "name": "Dr Gianmassimo Tasinato",
-                            "url": "https://www.swansea.ac.uk/staff/science/physics/g.tasinato/",
-                            "expertise": [
-                                "Theoretical Cosmology"
                             ]
                         },
                         {
@@ -2316,6 +2316,18 @@
                     "name": "American Studies",
                     "staff": [
                         {
+                            "name": "Mr Robert Bideleux",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/bideleuxrj/",
+                            "expertise": [
+                                "The History Politics And Economic Development Of The Eastern Half Of Europe.",
+                                "The Evolution Of Marxism/communism.",
+                                "The Global History Of Economic Thinking",
+                                "Postcolonialism (including Orientalism)",
+                                "Genocide",
+                                "Latin American Politics & Economic Development"
+                            ]
+                        },
+                        {
                             "name": "Dr David Anderson",
                             "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/andersond/",
                             "expertise": [
@@ -2327,6 +2339,29 @@
                                 "Christmas In 19th-century Britain And America",
                                 "British Humour Comic Art And Artists",
                                 "Antiquarian Histories Of North-east Scotland"
+                            ]
+                        },
+                        {
+                            "name": "Dr Gerard Clarke",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/clarkeg/",
+                            "expertise": [
+                                "Politics And International Development",
+                                "Politics In The Global South",
+                                "International Development Policy",
+                                "Civil Society And International Development",
+                                "Human Rights And International Development"
+                            ]
+                        },
+                        {
+                            "name": "Professor Jonathan Bradbury",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/bradburyj/",
+                            "expertise": [
+                                "Comparative Territorial Politics",
+                                "Uk Territorial Politics And Devolution",
+                                "Constitutional Policy And Devolution",
+                                "Devolution Governance And Public Policy",
+                                "Party Adaptation To Devolution",
+                                "Multi-level Politics And Representation"
                             ]
                         },
                         {
@@ -2343,38 +2378,13 @@
                             ]
                         },
                         {
-                            "name": "Dr Gerard Clarke",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/clarkeg/",
+                            "name": "Dr Paddy McQueen",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/politics/mcqueen-p/",
                             "expertise": [
-                                "Politics And International Development",
-                                "Politics In The Global South",
-                                "International Development Policy",
-                                "Civil Society And International Development",
-                                "Human Rights And International Development"
-                            ]
-                        },
-                        {
-                            "name": "Mr Robert Bideleux",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/bideleuxrj/",
-                            "expertise": [
-                                "The History Politics And Economic Development Of The Eastern Half Of Europe.",
-                                "The Evolution Of Marxism/communism.",
-                                "The Global History Of Economic Thinking",
-                                "Postcolonialism (including Orientalism)",
-                                "Genocide",
-                                "Latin American Politics & Economic Development"
-                            ]
-                        },
-                        {
-                            "name": "Professor Jonathan Bradbury",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/bradburyj/",
-                            "expertise": [
-                                "Comparative Territorial Politics",
-                                "Uk Territorial Politics And Devolution",
-                                "Constitutional Policy And Devolution",
-                                "Devolution Governance And Public Policy",
-                                "Party Adaptation To Devolution",
-                                "Multi-level Politics And Representation"
+                                "The Politics Of Recognition",
+                                "The Ethics Of Identity",
+                                "Freedom And Autonomy",
+                                "Applied Ethics"
                             ]
                         },
                         {
@@ -2387,27 +2397,6 @@
                                 "Securitization",
                                 "Asean",
                                 "Southeast Asian Security"
-                            ]
-                        },
-                        {
-                            "name": "Dr Paddy McQueen",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/politics/mcqueen-p/",
-                            "expertise": [
-                                "The Politics Of Recognition",
-                                "The Ethics Of Identity",
-                                "Freedom And Autonomy",
-                                "Applied Ethics"
-                            ]
-                        },
-                        {
-                            "name": "Dr Dion Curry",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/currydion/",
-                            "expertise": [
-                                "Governance",
-                                "Political Legitimacy",
-                                "Trust",
-                                "Public Sector Reform",
-                                "British Politics"
                             ]
                         },
                         {
@@ -2436,13 +2425,14 @@
                             ]
                         },
                         {
-                            "name": "Dr Bettina Petersohn",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/bettinapetersohn/",
+                            "name": "Dr Dion Curry",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/currydion/",
                             "expertise": [
-                                "Comparative Federalism",
-                                "Local Government Coordination",
-                                "Accountability In Multi-level Systems",
-                                "Accommodation Of Internal Nations"
+                                "Governance",
+                                "Political Legitimacy",
+                                "Trust",
+                                "Public Sector Reform",
+                                "British Politics"
                             ]
                         },
                         {
@@ -2456,6 +2446,16 @@
                                 "Urban And Rural Transport Services",
                                 "Rural Access",
                                 "Appropriate And Sustainable Technologies"
+                            ]
+                        },
+                        {
+                            "name": "Dr Bettina Petersohn",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/bettinapetersohn/",
+                            "expertise": [
+                                "Comparative Federalism",
+                                "Local Government Coordination",
+                                "Accountability In Multi-level Systems",
+                                "Accommodation Of Internal Nations"
                             ]
                         },
                         {
@@ -2511,17 +2511,15 @@
                             ]
                         },
                         {
-                            "name": "Dr Fritz-gregor Herrmann",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/herrmannfritz-gregor/",
+                            "name": "Dr Ersin Hussein",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/husseine/",
                             "expertise": [
-                                "Ancient Philosophy",
-                                "Plato",
-                                "Presocratics",
-                                "Greek Literature",
-                                "Tragedy",
-                                "Greek And Latin Language",
-                                "Comparative Philology",
-                                "Ancient History"
+                                "Ancient Cyprus Particularly The Roman Period",
+                                "Local Identity Formation In The Roman Provinces",
+                                "Mining Metallurgy And The Cultural Value Of Metals",
+                                "The Ancient Economy",
+                                "Greek And Latin Epigraphy",
+                                "The Materiality Of Objects"
                             ]
                         },
                         {
@@ -2536,15 +2534,28 @@
                             ]
                         },
                         {
-                            "name": "Dr Ersin Hussein",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/husseine/",
+                            "name": "Professor Mark Humphries",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/humphriesmark/",
                             "expertise": [
-                                "Ancient Cyprus Particularly The Roman Period",
-                                "Local Identity Formation In The Roman Provinces",
-                                "Mining Metallurgy And The Cultural Value Of Metals",
-                                "The Ancient Economy",
-                                "Greek And Latin Epigraphy",
-                                "The Materiality Of Objects"
+                                "Late Antiquity",
+                                "Early Christianity",
+                                "Imperial Ideology In Late Antiquity",
+                                "World History Of Late Antiquity And The Early Middle Ages",
+                                "City Of Rome Between Paganism And Christianity"
+                            ]
+                        },
+                        {
+                            "name": "Dr Fritz-gregor Herrmann",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/herrmannfritz-gregor/",
+                            "expertise": [
+                                "Ancient Philosophy",
+                                "Plato",
+                                "Presocratics",
+                                "Greek Literature",
+                                "Tragedy",
+                                "Greek And Latin Language",
+                                "Comparative Philology",
+                                "Ancient History"
                             ]
                         },
                         {
@@ -2560,14 +2571,10 @@
                             ]
                         },
                         {
-                            "name": "Professor Mark Humphries",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/humphriesmark/",
+                            "name": "Mrs Maria Oikonomou",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/classics/oikonomou-m/",
                             "expertise": [
-                                "Late Antiquity",
-                                "Early Christianity",
-                                "Imperial Ideology In Late Antiquity",
-                                "World History Of Late Antiquity And The Early Middle Ages",
-                                "City Of Rome Between Paganism And Christianity"
+                                "Greek And Latin Language"
                             ]
                         },
                         {
@@ -2581,28 +2588,6 @@
                                 "Material Culture",
                                 "Ancient Pottery",
                                 "Ancient Colonialism"
-                            ]
-                        },
-                        {
-                            "name": "Mrs Maria Oikonomou",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/classics/oikonomou-m/",
-                            "expertise": [
-                                "Greek And Latin Language"
-                            ]
-                        },
-                        {
-                            "name": "Dr Maria Pretzler",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/pretzlermaria/",
-                            "expertise": [
-                                "Greek City States",
-                                "Peloponnese",
-                                "Pausanias",
-                                "Ancient Travel Writing",
-                                "Ancient Geography",
-                                "Second Sophistic",
-                                "Polis Identity",
-                                "Local Oral Traditions",
-                                "Memorial Landscapes"
                             ]
                         },
                         {
@@ -2630,6 +2615,21 @@
                             ]
                         },
                         {
+                            "name": "Dr Maria Pretzler",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/pretzlermaria/",
+                            "expertise": [
+                                "Greek City States",
+                                "Peloponnese",
+                                "Pausanias",
+                                "Ancient Travel Writing",
+                                "Ancient Geography",
+                                "Second Sophistic",
+                                "Polis Identity",
+                                "Local Oral Traditions",
+                                "Memorial Landscapes"
+                            ]
+                        },
+                        {
                             "name": "Dr Troy Sagrillo",
                             "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/classics/sagrillo-tl/",
                             "expertise": [
@@ -2645,6 +2645,28 @@
                     "key": "education",
                     "name": "School of Education",
                     "staff": [
+                        {
+                            "name": "Miss Libby Chancer",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/chancer-l/",
+                            "expertise": [
+                                "Mathematics Education",
+                                "Problem Solving",
+                                "Abstract Thinking",
+                                "Variation Theory",
+                                "Initial And Continuing Teacher Education"
+                            ]
+                        },
+                        {
+                            "name": "Mrs Sian Brooks",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/brooks-s/",
+                            "expertise": [
+                                "Mfl Pedagogy",
+                                "Vocabulary Acquisition",
+                                "Multilingualism And Third Language Acquisition",
+                                "Digital Technology In The Classroom",
+                                "Additional Learning Needs & Wellbeing"
+                            ]
+                        },
                         {
                             "name": "Dr Angella Cooze",
                             "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/cooze-a/",
@@ -2676,38 +2698,6 @@
                             ]
                         },
                         {
-                            "name": "Miss Libby Chancer",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/chancer-l/",
-                            "expertise": [
-                                "Mathematics Education",
-                                "Problem Solving",
-                                "Abstract Thinking",
-                                "Variation Theory",
-                                "Initial And Continuing Teacher Education"
-                            ]
-                        },
-                        {
-                            "name": "Mrs Sian Brooks",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/brooks-s/",
-                            "expertise": [
-                                "Mfl Pedagogy",
-                                "Vocabulary Acquisition",
-                                "Multilingualism And Third Language Acquisition",
-                                "Digital Technology In The Classroom",
-                                "Additional Learning Needs & Wellbeing"
-                            ]
-                        },
-                        {
-                            "name": "Mr Ross Evans",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/evans-r/",
-                            "expertise": [
-                                "Data Tracking And Analysis",
-                                "Secondary School Computer Science Education",
-                                "Independent And Remote Learning",
-                                "Department Self-evaluation"
-                            ]
-                        },
-                        {
                             "name": "Professor Tom Crick",
                             "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/tom-crick/",
                             "expertise": [
@@ -2722,13 +2712,13 @@
                             ]
                         },
                         {
-                            "name": "Mrs Alyssia Fiander-Houlden",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/fiander-houlden-a/",
+                            "name": "Mr Ross Evans",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/evans-r/",
                             "expertise": [
-                                "Engagement Into Stem Subjects At Ks3&4",
-                                "Challenging More Able Learners",
-                                "Behaviour For Learning",
-                                "Teaching And Learning"
+                                "Data Tracking And Analysis",
+                                "Secondary School Computer Science Education",
+                                "Independent And Remote Learning",
+                                "Department Self-evaluation"
                             ]
                         },
                         {
@@ -2738,15 +2728,6 @@
                                 "Parental Engagement In Children’s Learning",
                                 "School Leadership",
                                 "Qualitative Research Methods"
-                            ]
-                        },
-                        {
-                            "name": "Dr Michelle Jones",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/michelle-jones/",
-                            "expertise": [
-                                "Educational Leadership",
-                                "Professional Learning",
-                                "Blended And Online Learning Pedagogies"
                             ]
                         },
                         {
@@ -2762,26 +2743,22 @@
                             ]
                         },
                         {
-                            "name": "Dr Helen Lewis",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/helen-lewis/",
+                            "name": "Dr Michelle Jones",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/michelle-jones/",
                             "expertise": [
-                                "Thinking Skills And Metacognition",
-                                "Teaching And Learning (pedagogy)",
-                                "Reflective Practice",
-                                "Initial And Continuing Teacher Education",
-                                "Teacher Research And Enquiry",
-                                "Animal-assisted Interventions"
+                                "Educational Leadership",
+                                "Professional Learning",
+                                "Blended And Online Learning Pedagogies"
                             ]
                         },
                         {
-                            "name": "Dr Neil Lucas",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/lucas-n/",
+                            "name": "Mrs Alyssia Fiander-Houlden",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/fiander-houlden-a/",
                             "expertise": [
-                                "Education Leadership",
-                                "Education Governance",
-                                "Education Quality Assurance",
-                                "Geostatistics",
-                                "Geographic Information Systems"
+                                "Engagement Into Stem Subjects At Ks3&4",
+                                "Challenging More Able Learners",
+                                "Behaviour For Learning",
+                                "Teaching And Learning"
                             ]
                         },
                         {
@@ -2796,11 +2773,69 @@
                             ]
                         },
                         {
+                            "name": "Dr Neil Lucas",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/lucas-n/",
+                            "expertise": [
+                                "Education Leadership",
+                                "Education Governance",
+                                "Education Quality Assurance",
+                                "Geostatistics",
+                                "Geographic Information Systems"
+                            ]
+                        },
+                        {
                             "name": "Mr Sion Owen",
                             "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/owen-s/",
                             "expertise": [
                                 "Welsh Language Charter",
                                 "Digital Competence"
+                            ]
+                        },
+                        {
+                            "name": "Dr Helen Lewis",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/helen-lewis/",
+                            "expertise": [
+                                "Thinking Skills And Metacognition",
+                                "Teaching And Learning (pedagogy)",
+                                "Reflective Practice",
+                                "Initial And Continuing Teacher Education",
+                                "Teacher Research And Enquiry",
+                                "Animal-assisted Interventions"
+                            ]
+                        },
+                        {
+                            "name": "Dr Alex Southern",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/southern-a/",
+                            "expertise": [
+                                "Educational Research Methods",
+                                "Archival Research Methodologies",
+                                "British Education History",
+                                "Film Education",
+                                "Film History",
+                                "Close To Practice Pedagogical Enquiry"
+                            ]
+                        },
+                        {
+                            "name": "Dr Alison Walker",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/walker-a/",
+                            "expertise": [
+                                "Service-learning",
+                                "Critical Reflection",
+                                "Experiential Learning",
+                                "Developing Graduate Identity",
+                                "Community Engagement",
+                                "Qualitative Research And Analysis"
+                            ]
+                        },
+                        {
+                            "name": "Dr Gisselle Tur Porres",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/tur-porres-g/",
+                            "expertise": [
+                                "Initial Teacher Education",
+                                "Teaching And Learning (emancipatory Pedagogies)",
+                                "Family Children School And Community Relations",
+                                "Early Childhood Educational Policies",
+                                "Qualitative Research"
                             ]
                         },
                         {
@@ -2829,47 +2864,12 @@
                             ]
                         },
                         {
-                            "name": "Dr Alex Southern",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/southern-a/",
-                            "expertise": [
-                                "Educational Research Methods",
-                                "Archival Research Methodologies",
-                                "British Education History",
-                                "Film Education",
-                                "Film History",
-                                "Close To Practice Pedagogical Enquiry"
-                            ]
-                        },
-                        {
-                            "name": "Dr Gisselle Tur Porres",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/tur-porres-g/",
-                            "expertise": [
-                                "Initial Teacher Education",
-                                "Teaching And Learning (emancipatory Pedagogies)",
-                                "Family Children School And Community Relations",
-                                "Early Childhood Educational Policies",
-                                "Qualitative Research"
-                            ]
-                        },
-                        {
                             "name": "Mr Chris Wolfe",
                             "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/wolfe-c/",
                             "expertise": [
                                 "Reflective Practice",
                                 "Coaching And Mentoring",
                                 "Using Ict To Support Learning"
-                            ]
-                        },
-                        {
-                            "name": "Dr Alison Walker",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/education/walker-a/",
-                            "expertise": [
-                                "Service-learning",
-                                "Critical Reflection",
-                                "Experiential Learning",
-                                "Developing Graduate Identity",
-                                "Community Engagement",
-                                "Qualitative Research And Analysis"
                             ]
                         },
                         {
@@ -2888,26 +2888,6 @@
                     "name": "English Language,TESOL and Applied Linguistics",
                     "staff": [
                         {
-                            "name": "Dr Jill Boggs",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/boggsj/",
-                            "expertise": [
-                                "Applied Linguistics",
-                                "Second Language Learning And Teaching",
-                                "Second Language Writing",
-                                "Corrective Feedback"
-                            ]
-                        },
-                        {
-                            "name": "Professor Nuria Lorenzo-Dus",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/lorenzo-dusn/",
-                            "expertise": [
-                                "Discourse Analysis",
-                                "Corpus –assisted Discourse Studies",
-                                "Multimodality",
-                                "Digital Influence And Manipulation"
-                            ]
-                        },
-                        {
                             "name": "Dr Federica Barbieri",
                             "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/barbierif/",
                             "expertise": [
@@ -2922,13 +2902,24 @@
                             ]
                         },
                         {
-                            "name": "Dr Robert Penhallurick",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/penhallurickr/",
+                            "name": "Dr Alexia Bowler",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/bowleralexia/",
                             "expertise": [
-                                "Varieties Of English",
-                                "History Of English",
-                                "Dialectology",
-                                "Welsh English"
+                                "Genre Film",
+                                "Women In Film",
+                                "Science Fiction Literature And Film",
+                                "Adaptation",
+                                "Feminism(s)"
+                            ]
+                        },
+                        {
+                            "name": "Professor Nuria Lorenzo-Dus",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/lorenzo-dusn/",
+                            "expertise": [
+                                "Discourse Analysis",
+                                "Corpus –assisted Discourse Studies",
+                                "Multimodality",
+                                "Digital Influence And Manipulation"
                             ]
                         },
                         {
@@ -2943,6 +2934,16 @@
                             ]
                         },
                         {
+                            "name": "Dr Jill Boggs",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/boggsj/",
+                            "expertise": [
+                                "Applied Linguistics",
+                                "Second Language Learning And Teaching",
+                                "Second Language Writing",
+                                "Corrective Feedback"
+                            ]
+                        },
+                        {
                             "name": "Mr Steven Morris",
                             "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/english/morris-s/",
                             "expertise": [
@@ -2954,14 +2955,13 @@
                             ]
                         },
                         {
-                            "name": "Dr Alexia Bowler",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/bowleralexia/",
+                            "name": "Dr Robert Penhallurick",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/penhallurickr/",
                             "expertise": [
-                                "Genre Film",
-                                "Women In Film",
-                                "Science Fiction Literature And Film",
-                                "Adaptation",
-                                "Feminism(s)"
+                                "Varieties Of English",
+                                "History Of English",
+                                "Dialectology",
+                                "Welsh English"
                             ]
                         },
                         {
@@ -3006,15 +3006,14 @@
                             ]
                         },
                         {
-                            "name": "Mr Geraint Evans",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/evansgeraint/",
+                            "name": "Dr Alice Barnaby",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/barnabya/",
                             "expertise": [
-                                "English Literature Since 1890",
-                                "Welsh Writing In English",
-                                "The Literature Of Wales",
-                                "Crime Fiction Since 1920",
-                                "The History Of The Book In Britain",
-                                "Publishing History"
+                                "Practices Of Lighting",
+                                "Nineteenth-century Visual Culture",
+                                "Nineteenth-century Literary Culture",
+                                "Aesthetics",
+                                "Theories Of Material Culture"
                             ]
                         },
                         {
@@ -3029,17 +3028,6 @@
                                 "Contemporary American Fiction",
                                 "Modern American Fiction",
                                 "East/central European Fiction"
-                            ]
-                        },
-                        {
-                            "name": "Dr Alice Barnaby",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/barnabya/",
-                            "expertise": [
-                                "Practices Of Lighting",
-                                "Nineteenth-century Visual Culture",
-                                "Nineteenth-century Literary Culture",
-                                "Aesthetics",
-                                "Theories Of Material Culture"
                             ]
                         },
                         {
@@ -3076,6 +3064,18 @@
                             ]
                         },
                         {
+                            "name": "Mr Geraint Evans",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/evansgeraint/",
+                            "expertise": [
+                                "English Literature Since 1890",
+                                "Welsh Writing In English",
+                                "The Literature Of Wales",
+                                "Crime Fiction Since 1920",
+                                "The History Of The Book In Britain",
+                                "Publishing History"
+                            ]
+                        },
+                        {
                             "name": "Mr Jon Gower",
                             "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/english-literature/gower-j/",
                             "expertise": [
@@ -3083,17 +3083,6 @@
                                 "The Short Story",
                                 "Long Fiction",
                                 "Nature Writing"
-                            ]
-                        },
-                        {
-                            "name": "Dr Sarah Gamble",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/english-literature/gamble-s/",
-                            "expertise": [
-                                "The Life And Work Of Angela Carter",
-                                "Contemporary Women’s Writing",
-                                "The Gothic And Fantastic",
-                                "Feminist Gender And Queer Theory",
-                                "Animal Studies"
                             ]
                         },
                         {
@@ -3110,14 +3099,17 @@
                             ]
                         },
                         {
-                            "name": "Dr Roberta Magnani",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/magnanir/",
+                            "name": "Dr Chris Pak",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/pakc/",
                             "expertise": [
-                                "Late Medieval Literature",
-                                "The Works Of Geoffrey Chaucer",
-                                "Late Medieval Manuscript Culture",
-                                "Gender Theory Especially Intersectional Feminism Lesbian And Queer Theories",
-                                "Medievalism And The Dialogue Between The Medieval And The Contemporary"
+                                "Science Fiction And Popular Culture",
+                                "Speculative / Fantastic Fiction",
+                                "Science And Literature",
+                                "Environmental Humanities",
+                                "Digital Humanities",
+                                "Medical Humanities",
+                                "Human-animal Studies",
+                                "Utopia"
                             ]
                         },
                         {
@@ -3135,6 +3127,28 @@
                             ]
                         },
                         {
+                            "name": "Dr Roberta Magnani",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/magnanir/",
+                            "expertise": [
+                                "Late Medieval Literature",
+                                "The Works Of Geoffrey Chaucer",
+                                "Late Medieval Manuscript Culture",
+                                "Gender Theory Especially Intersectional Feminism Lesbian And Queer Theories",
+                                "Medievalism And The Dialogue Between The Medieval And The Contemporary"
+                            ]
+                        },
+                        {
+                            "name": "Dr Sarah Gamble",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/english-literature/gamble-s/",
+                            "expertise": [
+                                "The Life And Work Of Angela Carter",
+                                "Contemporary Women’s Writing",
+                                "The Gothic And Fantastic",
+                                "Feminist Gender And Queer Theory",
+                                "Animal Studies"
+                            ]
+                        },
+                        {
                             "name": "Dr Eoin Price",
                             "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/priceeoin/",
                             "expertise": [
@@ -3144,20 +3158,6 @@
                                 "Theatre History",
                                 "Book History",
                                 "Performance"
-                            ]
-                        },
-                        {
-                            "name": "Dr Chris Pak",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/pakc/",
-                            "expertise": [
-                                "Science Fiction And Popular Culture",
-                                "Speculative / Fantastic Fiction",
-                                "Science And Literature",
-                                "Environmental Humanities",
-                                "Digital Humanities",
-                                "Medical Humanities",
-                                "Human-animal Studies",
-                                "Utopia"
                             ]
                         },
                         {
@@ -3183,6 +3183,20 @@
                             ]
                         },
                         {
+                            "name": "Professor Daniel Williams",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/williamsd/",
+                            "expertise": [
+                                "Literatures Of Wales",
+                                "African American Literature",
+                                "Celtic Languages And Literatures (from 1800)",
+                                "Raymond Williams And The New Left",
+                                "Intellectual History",
+                                "Cultural Nationalism",
+                                "Ethnicity",
+                                "Colonialism/postcolonialism"
+                            ]
+                        },
+                        {
                             "name": "Dr Nicola Vaughan",
                             "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/nickovaughan/",
                             "expertise": [
@@ -3193,16 +3207,6 @@
                                 "Graphic Novel",
                                 "Sherlock Holmes Film & Tv Adaptations",
                                 "Fanfiction"
-                            ]
-                        },
-                        {
-                            "name": "Dr Robert Penhallurick",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/penhallurickr/",
-                            "expertise": [
-                                "Varieties Of English",
-                                "History Of English",
-                                "Dialectology",
-                                "Welsh English"
                             ]
                         },
                         {
@@ -3217,17 +3221,13 @@
                             ]
                         },
                         {
-                            "name": "Professor Daniel Williams",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/williamsd/",
+                            "name": "Dr Robert Penhallurick",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/penhallurickr/",
                             "expertise": [
-                                "Literatures Of Wales",
-                                "African American Literature",
-                                "Celtic Languages And Literatures (from 1800)",
-                                "Raymond Williams And The New Left",
-                                "Intellectual History",
-                                "Cultural Nationalism",
-                                "Ethnicity",
-                                "Colonialism/postcolonialism"
+                                "Varieties Of English",
+                                "History Of English",
+                                "Dialectology",
+                                "Welsh English"
                             ]
                         }
                     ]
@@ -3237,26 +3237,14 @@
                     "name": "History",
                     "staff": [
                         {
-                            "name": "Dr Sam Blaxland",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/s.blaxland/",
+                            "name": "Dr Emma Cavell",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/cavellemma/",
                             "expertise": [
-                                "Universities Since 1945",
-                                "British Politics Since 1945 Particularly The Conservative Party",
-                                "Grass-roots Political Associations And Their Cultures Especially Women’s Societies",
-                                "Oral History",
-                                "Twentieth Century Wales",
-                                "Current Affairs And Contemporary Politics"
-                            ]
-                        },
-                        {
-                            "name": "Dr Rebecca Clifford",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/cliffordr/",
-                            "expertise": [
-                                "Holocaust History",
-                                "Oral History",
-                                "Memory Studies",
-                                "Children's History",
-                                "Contemporary European History"
+                                "Aristocracies And Frontiers In The British Isles 1 000-1300",
+                                "Women And Gender In Medieval Britain",
+                                "Elite Women’s Monastic Benefaction And Patronage.",
+                                "Medieval Wales And Anglo-welsh Relations Before 1300",
+                                "Medieval Law And Litigation"
                             ]
                         },
                         {
@@ -3272,6 +3260,17 @@
                             ]
                         },
                         {
+                            "name": "Dr Rebecca Clifford",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/cliffordr/",
+                            "expertise": [
+                                "Holocaust History",
+                                "Oral History",
+                                "Memory Studies",
+                                "Children's History",
+                                "Contemporary European History"
+                            ]
+                        },
+                        {
                             "name": "Dr Sarah Crook",
                             "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/crooks/",
                             "expertise": [
@@ -3284,14 +3283,15 @@
                             ]
                         },
                         {
-                            "name": "Dr Emma Cavell",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/cavellemma/",
+                            "name": "Dr Sam Blaxland",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/s.blaxland/",
                             "expertise": [
-                                "Aristocracies And Frontiers In The British Isles 1 000-1300",
-                                "Women And Gender In Medieval Britain",
-                                "Elite Women’s Monastic Benefaction And Patronage.",
-                                "Medieval Wales And Anglo-welsh Relations Before 1300",
-                                "Medieval Law And Litigation"
+                                "Universities Since 1945",
+                                "British Politics Since 1945 Particularly The Conservative Party",
+                                "Grass-roots Political Associations And Their Cultures Especially Women’s Societies",
+                                "Oral History",
+                                "Twentieth Century Wales",
+                                "Current Affairs And Contemporary Politics"
                             ]
                         },
                         {
@@ -3316,17 +3316,6 @@
                             ]
                         },
                         {
-                            "name": "Dr Simon John",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/john,%20simon.a./",
-                            "expertise": [
-                                "The Crusades And Latin Christian Expansion",
-                                "Medieval Kingship",
-                                "Historical Writing In The Middle Ages",
-                                "Medievalism",
-                                "Public Monuments And The Representation Of Medieval History"
-                            ]
-                        },
-                        {
                             "name": "Dr Tomas Irish",
                             "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/irisht/",
                             "expertise": [
@@ -3338,6 +3327,52 @@
                                 "Transnational History.",
                                 "The Irish Revolution.",
                                 "History Of Peace Making."
+                            ]
+                        },
+                        {
+                            "name": "Dr Simon John",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/john,%20simon.a./",
+                            "expertise": [
+                                "The Crusades And Latin Christian Expansion",
+                                "Medieval Kingship",
+                                "Historical Writing In The Middle Ages",
+                                "Medievalism",
+                                "Public Monuments And The Representation Of Medieval History"
+                            ]
+                        },
+                        {
+                            "name": "Professor Martin Johnes",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/johnesmartin/",
+                            "expertise": [
+                                "Sport",
+                                "Wales",
+                                "National Identity",
+                                "Masculinity",
+                                "Popular Culture"
+                            ]
+                        },
+                        {
+                            "name": "Dr Alexander Langlands",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/langlandsalex/",
+                            "expertise": [
+                                "Medieval Archaeology",
+                                "Landscape History",
+                                "Landscape Archaeology",
+                                "Broadcast Media",
+                                "Heritage And Public Engagement"
+                            ]
+                        },
+                        {
+                            "name": "Dr Gethin Matthews",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/matthewsg/",
+                            "expertise": [
+                                "Welsh Society And Culture - First World War",
+                                "Memorials To The First World War",
+                                "Wales And The British Empire",
+                                "Welsh Migration And Welsh Communities Overseas",
+                                "Gold Rushes",
+                                "Oral History Of Welsh Involvement In The Two World Wars",
+                                "Wales And The American Civil War"
                             ]
                         },
                         {
@@ -3355,19 +3390,6 @@
                             ]
                         },
                         {
-                            "name": "Dr Gethin Matthews",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/matthewsg/",
-                            "expertise": [
-                                "Welsh Society And Culture - First World War",
-                                "Memorials To The First World War",
-                                "Wales And The British Empire",
-                                "Welsh Migration And Welsh Communities Overseas",
-                                "Gold Rushes",
-                                "Oral History Of Welsh Involvement In The Two World Wars",
-                                "Wales And The American Civil War"
-                            ]
-                        },
-                        {
                             "name": "Dr Christoph Laucht",
                             "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/lauchtc/",
                             "expertise": [
@@ -3382,25 +3404,14 @@
                             ]
                         },
                         {
-                            "name": "Dr Alexander Langlands",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/langlandsalex/",
+                            "name": "Professor Louise Miskell",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/miskelllouise/",
                             "expertise": [
-                                "Medieval Archaeology",
-                                "Landscape History",
-                                "Landscape Archaeology",
-                                "Broadcast Media",
-                                "Heritage And Public Engagement"
-                            ]
-                        },
-                        {
-                            "name": "Professor Martin Johnes",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/johnesmartin/",
-                            "expertise": [
-                                "Sport",
-                                "Wales",
-                                "National Identity",
-                                "Masculinity",
-                                "Popular Culture"
+                                "History Of The Steel Industry",
+                                "History Of The Copper Industry",
+                                "History Of Swansea",
+                                "Urban History",
+                                "Modern Welsh History"
                             ]
                         },
                         {
@@ -3418,22 +3429,21 @@
                             ]
                         },
                         {
-                            "name": "Professor Louise Miskell",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/miskelllouise/",
-                            "expertise": [
-                                "History Of The Steel Industry",
-                                "History Of The Copper Industry",
-                                "History Of Swansea",
-                                "Urban History",
-                                "Modern Welsh History"
-                            ]
-                        },
-                        {
                             "name": "Dr Regina Poertner",
                             "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/portnerregina/",
                             "expertise": [
                                 "British And American Legal History",
                                 "History Of Western Political Thought"
+                            ]
+                        },
+                        {
+                            "name": "Professor Daniel Power",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/powerd/",
+                            "expertise": [
+                                "France And The British Isles In The Central Middle Ages",
+                                "The Anglo-norman Realm The Angevin Empire And Capetian France",
+                                "Aristocratic Power And Records",
+                                "Medieval Frontiers"
                             ]
                         },
                         {
@@ -3448,13 +3458,16 @@
                             ]
                         },
                         {
-                            "name": "Professor Daniel Power",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/powerd/",
+                            "name": "Dr Matthew Stevens",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/stevensm/",
                             "expertise": [
-                                "France And The British Isles In The Central Middle Ages",
-                                "The Anglo-norman Realm The Angevin Empire And Capetian France",
-                                "Aristocratic Power And Records",
-                                "Medieval Frontiers"
+                                "Medieval Economic History",
+                                "Medieval Legal History (english Common Law)",
+                                "Medieval Welsh History",
+                                "Medieval Urban History",
+                                "Medieval Colonization",
+                                "Women In The Medieval Economy And Law",
+                                "Ethnicity (‘race’) And Discrimination In The Middle Ages"
                             ]
                         },
                         {
@@ -3466,19 +3479,6 @@
                                 "Medieval Women And Litigation",
                                 "Ageing And The Life Course",
                                 "Aristocratic Culture"
-                            ]
-                        },
-                        {
-                            "name": "Dr Matthew Stevens",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/stevensm/",
-                            "expertise": [
-                                "Medieval Economic History",
-                                "Medieval Legal History (english Common Law)",
-                                "Medieval Welsh History",
-                                "Medieval Urban History",
-                                "Medieval Colonization",
-                                "Women In The Medieval Economy And Law",
-                                "Ethnicity (‘race’) And Discrimination In The Middle Ages"
                             ]
                         },
                         {
@@ -3501,6 +3501,17 @@
                     "name": "Media, Communications and PR",
                     "staff": [
                         {
+                            "name": "Dr Leighton Evans",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/evansl/",
+                            "expertise": [
+                                "Location-based Social Networking",
+                                "Phenomenology",
+                                "Locative Media",
+                                "Virtual Reality",
+                                "Augmented Reality"
+                            ]
+                        },
+                        {
                             "name": "Dr Allaina Kilby",
                             "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/kilbya/",
                             "expertise": [
@@ -3513,17 +3524,6 @@
                             ]
                         },
                         {
-                            "name": "Dr Leighton Evans",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/evansl/",
-                            "expertise": [
-                                "Location-based Social Networking",
-                                "Phenomenology",
-                                "Locative Media",
-                                "Virtual Reality",
-                                "Augmented Reality"
-                            ]
-                        },
-                        {
                             "name": "Dr Sian Rees",
                             "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/media/rees-s-f/",
                             "expertise": [
@@ -3532,28 +3532,6 @@
                                 "Corporate Communications",
                                 "Reputation Management",
                                 "Employability In Higher Education"
-                            ]
-                        },
-                        {
-                            "name": "Dr Elain Price",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/pricee/",
-                            "expertise": [
-                                "Broadcasting In Wales",
-                                "History Of S4c",
-                                "Children’s Television Programmes In Wales",
-                                "Animation In Wales"
-                            ]
-                        },
-                        {
-                            "name": "Mrs Non Williams",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/vaughanwilliamsn/",
-                            "expertise": [
-                                "The Welsh Language And The Media",
-                                "The Documentary Genre",
-                                "Gender And Broadcasting",
-                                "Public Broadcasting",
-                                "Practical Skills: Radio Video Mobile Technology And Social Networking",
-                                "Production"
                             ]
                         },
                         {
@@ -3570,6 +3548,16 @@
                             ]
                         },
                         {
+                            "name": "Dr Elain Price",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/pricee/",
+                            "expertise": [
+                                "Broadcasting In Wales",
+                                "History Of S4c",
+                                "Children’s Television Programmes In Wales",
+                                "Animation In Wales"
+                            ]
+                        },
+                        {
                             "name": "Dr Yan Wu",
                             "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/wuyan/",
                             "expertise": [
@@ -3579,6 +3567,18 @@
                                 "Chinese Diaspora",
                                 "Digital Inclusivity"
                             ]
+                        },
+                        {
+                            "name": "Mrs Non Williams",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/vaughanwilliamsn/",
+                            "expertise": [
+                                "The Welsh Language And The Media",
+                                "The Documentary Genre",
+                                "Gender And Broadcasting",
+                                "Public Broadcasting",
+                                "Practical Skills: Radio Video Mobile Technology And Social Networking",
+                                "Production"
+                            ]
                         }
                     ]
                 },
@@ -3586,17 +3586,6 @@
                     "key": "languages",
                     "name": "Modern Languages, Translation and Interpreting",
                     "staff": [
-                        {
-                            "name": "Dr Giovanna Donzelli",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/donzellig/",
-                            "expertise": [
-                                "Vocabulary Acquisition In Instructional Settings",
-                                "Teaching Languages To Young Learners",
-                                "Italian Language And Culture",
-                                "Designing And Evaluating Language Teaching Materials",
-                                "Translation And Interpreting"
-                            ]
-                        },
                         {
                             "name": "Dr Salwa El-Awa",
                             "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/salwamsel-awa/",
@@ -3623,11 +3612,14 @@
                             ]
                         },
                         {
-                            "name": "Mrs Ute Keller-Jenkins",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/kelleru/",
+                            "name": "Dr Giovanna Donzelli",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/donzellig/",
                             "expertise": [
-                                "German Language And Culture",
-                                "Language Learning And Teaching"
+                                "Vocabulary Acquisition In Instructional Settings",
+                                "Teaching Languages To Young Learners",
+                                "Italian Language And Culture",
+                                "Designing And Evaluating Language Teaching Materials",
+                                "Translation And Interpreting"
                             ]
                         },
                         {
@@ -3641,30 +3633,11 @@
                             ]
                         },
                         {
-                            "name": "Dr Federico Lopez-Terra",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/lopez-terra/",
+                            "name": "Mrs Ute Keller-Jenkins",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/kelleru/",
                             "expertise": [
-                                "Comparative Literature And Literary Theory",
-                                "Cultural Semiotics",
-                                "Critical Discourse Analysis",
-                                "21st Century Iberian Studies",
-                                "Digital Humanities And Digital Ecology",
-                                "Latin American Studies (narrative And Theatre)",
-                                "Translation Theory"
-                            ]
-                        },
-                        {
-                            "name": "Dr Geraldine Lublin",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/lubling/",
-                            "expertise": [
-                                "Patagonia",
-                                "Argentina",
-                                "Nation-building And Indigenous Populations",
-                                "Settler Colonial Theory",
-                                "Translation Theory",
-                                "Welsh-medium Teaching",
-                                "Interculturalism Diasporas And Transnational Groups",
-                                "Digital Humanities"
+                                "German Language And Culture",
+                                "Language Learning And Teaching"
                             ]
                         },
                         {
@@ -3682,27 +3655,30 @@
                             ]
                         },
                         {
-                            "name": "Professor Julian Preece",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/preecej/",
+                            "name": "Dr Geraldine Lublin",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/lubling/",
                             "expertise": [
-                                "Contemporary Germany",
-                                "German And European Twentieth-century Literature",
-                                "The Canettis (elias And Veza)",
-                                "Günter Grass",
-                                "Kafka",
-                                "Life-writing (especially Letters)",
-                                "German Cinema"
+                                "Patagonia",
+                                "Argentina",
+                                "Nation-building And Indigenous Populations",
+                                "Settler Colonial Theory",
+                                "Translation Theory",
+                                "Welsh-medium Teaching",
+                                "Interculturalism Diasporas And Transnational Groups",
+                                "Digital Humanities"
                             ]
                         },
                         {
-                            "name": "Professor Andrew Rothwell",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/rothwella/",
+                            "name": "Dr Federico Lopez-Terra",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/lopez-terra/",
                             "expertise": [
-                                "Modern And Contemporary French Literature And Visual Arts",
-                                "Literary Translation",
-                                "Translation Tools And Technologies",
-                                "Computer-assisted Literary Translation",
-                                "Translator Training"
+                                "Comparative Literature And Literary Theory",
+                                "Cultural Semiotics",
+                                "Critical Discourse Analysis",
+                                "21st Century Iberian Studies",
+                                "Digital Humanities And Digital Ecology",
+                                "Latin American Studies (narrative And Theatre)",
+                                "Translation Theory"
                             ]
                         },
                         {
@@ -3728,6 +3704,30 @@
                                 "Translation And Interpreting",
                                 "Language Data Analysis"
                             ]
+                        },
+                        {
+                            "name": "Professor Julian Preece",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/preecej/",
+                            "expertise": [
+                                "Contemporary Germany",
+                                "German And European Twentieth-century Literature",
+                                "The Canettis (elias And Veza)",
+                                "Günter Grass",
+                                "Kafka",
+                                "Life-writing (especially Letters)",
+                                "German Cinema"
+                            ]
+                        },
+                        {
+                            "name": "Professor Andrew Rothwell",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/rothwella/",
+                            "expertise": [
+                                "Modern And Contemporary French Literature And Visual Arts",
+                                "Literary Translation",
+                                "Translation Tools And Technologies",
+                                "Computer-assisted Literary Translation",
+                                "Translator Training"
+                            ]
                         }
                     ]
                 },
@@ -3750,15 +3750,14 @@
                             ]
                         },
                         {
-                            "name": "Professor Jonathan Bradbury",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/bradburyj/",
+                            "name": "Dr Gerard Clarke",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/clarkeg/",
                             "expertise": [
-                                "Comparative Territorial Politics",
-                                "Uk Territorial Politics And Devolution",
-                                "Constitutional Policy And Devolution",
-                                "Devolution Governance And Public Policy",
-                                "Party Adaptation To Devolution",
-                                "Multi-level Politics And Representation"
+                                "Politics And International Development",
+                                "Politics In The Global South",
+                                "International Development Policy",
+                                "Civil Society And International Development",
+                                "Human Rights And International Development"
                             ]
                         },
                         {
@@ -3775,14 +3774,37 @@
                             ]
                         },
                         {
-                            "name": "Dr Gerard Clarke",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/clarkeg/",
+                            "name": "Professor Jonathan Bradbury",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/bradburyj/",
                             "expertise": [
-                                "Politics And International Development",
-                                "Politics In The Global South",
-                                "International Development Policy",
-                                "Civil Society And International Development",
-                                "Human Rights And International Development"
+                                "Comparative Territorial Politics",
+                                "Uk Territorial Politics And Devolution",
+                                "Constitutional Policy And Devolution",
+                                "Devolution Governance And Public Policy",
+                                "Party Adaptation To Devolution",
+                                "Multi-level Politics And Representation"
+                            ]
+                        },
+                        {
+                            "name": "Dr Paddy McQueen",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/politics/mcqueen-p/",
+                            "expertise": [
+                                "The Politics Of Recognition",
+                                "The Ethics Of Identity",
+                                "Freedom And Autonomy",
+                                "Applied Ethics"
+                            ]
+                        },
+                        {
+                            "name": "Professor Alan Collins",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/collinsa/",
+                            "expertise": [
+                                "Theories Of International Security",
+                                "Security Dilemma",
+                                "Constructivism",
+                                "Securitization",
+                                "Asean",
+                                "Southeast Asian Security"
                             ]
                         },
                         {
@@ -3794,27 +3816,6 @@
                                 "Trust",
                                 "Public Sector Reform",
                                 "British Politics"
-                            ]
-                        },
-                        {
-                            "name": "Dr Eugene Miakinkov",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/miakinkoveugene/",
-                            "expertise": [
-                                "Russian History",
-                                "Militarization Of Society And Culture",
-                                "War And Society",
-                                "Information History",
-                                "18th Century European History"
-                            ]
-                        },
-                        {
-                            "name": "Dr Paddy McQueen",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/politics/mcqueen-p/",
-                            "expertise": [
-                                "The Politics Of Recognition",
-                                "The Ethics Of Identity",
-                                "Freedom And Autonomy",
-                                "Applied Ethics"
                             ]
                         },
                         {
@@ -3832,15 +3833,61 @@
                             ]
                         },
                         {
-                            "name": "Professor Alan Collins",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/collinsa/",
+                            "name": "Dr Eugene Miakinkov",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/miakinkoveugene/",
                             "expertise": [
-                                "Theories Of International Security",
-                                "Security Dilemma",
-                                "Constructivism",
-                                "Securitization",
-                                "Asean",
-                                "Southeast Asian Security"
+                                "Russian History",
+                                "Militarization Of Society And Culture",
+                                "War And Society",
+                                "Information History",
+                                "18th Century European History"
+                            ]
+                        },
+                        {
+                            "name": "Dr Bettina Petersohn",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/bettinapetersohn/",
+                            "expertise": [
+                                "Comparative Federalism",
+                                "Local Government Coordination",
+                                "Accountability In Multi-level Systems",
+                                "Accommodation Of Internal Nations"
+                            ]
+                        },
+                        {
+                            "name": "Dr Luca Trenta",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/lucatrenta/",
+                            "expertise": [
+                                "International Relations",
+                                "Us Foreign Policy",
+                                "Cold War",
+                                "Covert Action",
+                                "Intelligence Studies",
+                                "Assassinations And Targeted Killing",
+                                "Drones"
+                            ]
+                        },
+                        {
+                            "name": "Dr Dennis Schmidt",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/schmidt_d/",
+                            "expertise": [
+                                "International Relations Theory",
+                                "International Political Theory",
+                                "The Politics And Ethics Of International Law",
+                                "Laws Of War",
+                                "International Institutions",
+                                "International Criminal Justice"
+                            ]
+                        },
+                        {
+                            "name": "Dr Matthew Wall",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/wallm/",
+                            "expertise": [
+                                "Election Campaign Dynamics",
+                                "Online Politics And The Role Of The Internet In Contemporary Campaigns",
+                                "Vote Advice Application Websites",
+                                "Election Forecasting",
+                                "Political Party Policy Analysis",
+                                "Electoral System Consequences And Reform Dynamics"
                             ]
                         },
                         {
@@ -3857,28 +3904,6 @@
                             ]
                         },
                         {
-                            "name": "Dr Dennis Schmidt",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/schmidt_d/",
-                            "expertise": [
-                                "International Relations Theory",
-                                "International Political Theory",
-                                "The Politics And Ethics Of International Law",
-                                "Laws Of War",
-                                "International Institutions",
-                                "International Criminal Justice"
-                            ]
-                        },
-                        {
-                            "name": "Dr Bettina Petersohn",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/bettinapetersohn/",
-                            "expertise": [
-                                "Comparative Federalism",
-                                "Local Government Coordination",
-                                "Accountability In Multi-level Systems",
-                                "Accommodation Of Internal Nations"
-                            ]
-                        },
-                        {
                             "name": "Dr Bryn Willcock",
                             "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/willcockbryn/",
                             "expertise": [
@@ -3886,31 +3911,6 @@
                                 "Nuclear History",
                                 "Post 1945 America",
                                 "British Politics"
-                            ]
-                        },
-                        {
-                            "name": "Dr Matthew Wall",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/wallm/",
-                            "expertise": [
-                                "Election Campaign Dynamics",
-                                "Online Politics And The Role Of The Internet In Contemporary Campaigns",
-                                "Vote Advice Application Websites",
-                                "Election Forecasting",
-                                "Political Party Policy Analysis",
-                                "Electoral System Consequences And Reform Dynamics"
-                            ]
-                        },
-                        {
-                            "name": "Dr Luca Trenta",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/lucatrenta/",
-                            "expertise": [
-                                "International Relations",
-                                "Us Foreign Policy",
-                                "Cold War",
-                                "Covert Action",
-                                "Intelligence Studies",
-                                "Assassinations And Targeted Killing",
-                                "Drones"
                             ]
                         }
                     ]
@@ -3947,6 +3947,18 @@
                             ]
                         },
                         {
+                            "name": "Professor Jonathan Bradbury",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/bradburyj/",
+                            "expertise": [
+                                "Comparative Territorial Politics",
+                                "Uk Territorial Politics And Devolution",
+                                "Constitutional Policy And Devolution",
+                                "Devolution Governance And Public Policy",
+                                "Party Adaptation To Devolution",
+                                "Multi-level Politics And Representation"
+                            ]
+                        },
+                        {
                             "name": "Mr Robert Bideleux",
                             "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/bideleuxrj/",
                             "expertise": [
@@ -3970,51 +3982,6 @@
                             ]
                         },
                         {
-                            "name": "Professor Alan Collins",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/collinsa/",
-                            "expertise": [
-                                "Theories Of International Security",
-                                "Security Dilemma",
-                                "Constructivism",
-                                "Securitization",
-                                "Asean",
-                                "Southeast Asian Security"
-                            ]
-                        },
-                        {
-                            "name": "Professor Jonathan Bradbury",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/bradburyj/",
-                            "expertise": [
-                                "Comparative Territorial Politics",
-                                "Uk Territorial Politics And Devolution",
-                                "Constitutional Policy And Devolution",
-                                "Devolution Governance And Public Policy",
-                                "Party Adaptation To Devolution",
-                                "Multi-level Politics And Representation"
-                            ]
-                        },
-                        {
-                            "name": "Dr Paddy McQueen",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/politics/mcqueen-p/",
-                            "expertise": [
-                                "The Politics Of Recognition",
-                                "The Ethics Of Identity",
-                                "Freedom And Autonomy",
-                                "Applied Ethics"
-                            ]
-                        },
-                        {
-                            "name": "Dr Dion Curry",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/currydion/",
-                            "expertise": [
-                                "Governance",
-                                "Political Legitimacy",
-                                "Trust",
-                                "Public Sector Reform",
-                                "British Politics"
-                            ]
-                        },
-                        {
                             "name": "Dr Stephen McVeigh",
                             "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/mcveighstephen/",
                             "expertise": [
@@ -4029,6 +3996,28 @@
                             ]
                         },
                         {
+                            "name": "Dr Paddy McQueen",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/politics/mcqueen-p/",
+                            "expertise": [
+                                "The Politics Of Recognition",
+                                "The Ethics Of Identity",
+                                "Freedom And Autonomy",
+                                "Applied Ethics"
+                            ]
+                        },
+                        {
+                            "name": "Professor Alan Collins",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/collinsa/",
+                            "expertise": [
+                                "Theories Of International Security",
+                                "Security Dilemma",
+                                "Constructivism",
+                                "Securitization",
+                                "Asean",
+                                "Southeast Asian Security"
+                            ]
+                        },
+                        {
                             "name": "Dr Eugene Miakinkov",
                             "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/miakinkoveugene/",
                             "expertise": [
@@ -4040,13 +4029,14 @@
                             ]
                         },
                         {
-                            "name": "Dr Bettina Petersohn",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/bettinapetersohn/",
+                            "name": "Dr Dion Curry",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/currydion/",
                             "expertise": [
-                                "Comparative Federalism",
-                                "Local Government Coordination",
-                                "Accountability In Multi-level Systems",
-                                "Accommodation Of Internal Nations"
+                                "Governance",
+                                "Political Legitimacy",
+                                "Trust",
+                                "Public Sector Reform",
+                                "British Politics"
                             ]
                         },
                         {
@@ -4060,6 +4050,16 @@
                                 "Urban And Rural Transport Services",
                                 "Rural Access",
                                 "Appropriate And Sustainable Technologies"
+                            ]
+                        },
+                        {
+                            "name": "Dr Bettina Petersohn",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/bettinapetersohn/",
+                            "expertise": [
+                                "Comparative Federalism",
+                                "Local Government Coordination",
+                                "Accountability In Multi-level Systems",
+                                "Accommodation Of Internal Nations"
                             ]
                         },
                         {
@@ -4104,16 +4104,14 @@
                     "name": "Welsh Department",
                     "staff": [
                         {
-                            "name": "Professor Tudur Hallam",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/hallamt/",
+                            "name": "Dr Alex Lovell",
+                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/lovell-a/",
                             "expertise": [
-                                "Welsh Literature",
-                                "Poetics",
-                                "Creative Writing",
-                                "Drama",
-                                "Language Planning",
-                                "Translation",
-                                "Language Teaching"
+                                "Welsh Second Language Education",
+                                "Second Language Acquisition",
+                                "Language And Education Policy Planning In Wales",
+                                "Second Language Testing And Assessment",
+                                "Bilingualism And Bilingual Education"
                             ]
                         },
                         {
@@ -4124,6 +4122,16 @@
                                 "The Legal Status Of The Welsh Language",
                                 "Devolution",
                                 "Language Rights In International Law"
+                            ]
+                        },
+                        {
+                            "name": "Dr Hannah Sams",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/h.l.sams/",
+                            "expertise": [
+                                "National Theatres In Stateless Nations",
+                                "Contemporary Welsh Language Theatre",
+                                "Theatre Of The Absurd",
+                                "Contemporary Welsh Literature"
                             ]
                         },
                         {
@@ -4141,24 +4149,16 @@
                             ]
                         },
                         {
-                            "name": "Dr Alex Lovell",
-                            "url": "https://www.swansea.ac.uk/staff/arts-and-humanities/academic/lovell-a/",
+                            "name": "Professor Tudur Hallam",
+                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/hallamt/",
                             "expertise": [
-                                "Welsh Second Language Education",
-                                "Second Language Acquisition",
-                                "Language And Education Policy Planning In Wales",
-                                "Second Language Testing And Assessment",
-                                "Bilingualism And Bilingual Education"
-                            ]
-                        },
-                        {
-                            "name": "Dr Hannah Sams",
-                            "url": "http://www.swansea.ac.uk/staff/arts-and-humanities/academic/h.l.sams/",
-                            "expertise": [
-                                "National Theatres In Stateless Nations",
-                                "Contemporary Welsh Language Theatre",
-                                "Theatre Of The Absurd",
-                                "Contemporary Welsh Literature"
+                                "Welsh Literature",
+                                "Poetics",
+                                "Creative Writing",
+                                "Drama",
+                                "Language Planning",
+                                "Translation",
+                                "Language Teaching"
                             ]
                         }
                     ]
